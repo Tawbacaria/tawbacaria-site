@@ -1831,6 +1831,15 @@
             "is_highlight": false,
             "in_stock": false,
             "image_url": "https://i.imgur.com/1xfauuE.png"
+        },
+        {
+            "code": "produto-teste",
+            "label": "Produto Teste",
+            "description": "Teste",
+            "price": 100000,
+            "image_url": "https://i.imgur.com/MvHWciR.png",
+            "in_stock": true,
+            "is_highlight": false
         }
     ],
     "Essências Ignite": [
