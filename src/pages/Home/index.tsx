@@ -37,7 +37,7 @@ export default function Home() {
                                 opacity: 0.2,
                             }}
                         >
-                            v1.0.0
+                            v2.0.0
                         </span>
                     </Box>
                     <Stack
