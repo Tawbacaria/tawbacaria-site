@@ -22,12 +22,23 @@ export default function Home() {
                     textAlign={'center'}
                     pt={[10, 12, 12, 12, 12, 32]}
                 >
-                    <Box>
+                    <Box position='relative'>
                         <Flex justifyContent='center'>
                             <Image
                                 src={colorMode === 'dark' ? TawSvg : TawSvgDark}
                             />
                         </Flex>
+                        <span
+                            style={{
+                                display: 'inline-block',
+                                position: 'absolute',
+                                top: '8px',
+                                right: '8px',
+                                opacity: 0.2,
+                            }}
+                        >
+                            v1.0.0
+                        </span>
                     </Box>
                     <Stack
                         direction={'column'}
