@@ -4652,7 +4652,7 @@
             "description": "Produzida com folhas orgânicas premium ultrafinas, essa seda garante uma queima suave e uniforme, realçando o sabor natural do conteúdo. Seu formato King Size é ideal para quem busca praticidade sem abrir mão da qualidade. Contém 33 folhas.",
             "price": 200,
             "image_url": "https://i.imgur.com/nMI0zEy.png",
-            "in_stock": true,
+            "in_stock": false,
             "is_highlight": false
         },
         {
