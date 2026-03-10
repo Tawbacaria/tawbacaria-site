@@ -366,7 +366,7 @@
             "description": "Unidade de pacote com 120 filtros slim, de 5mmx1,5cm",
             "price": 1000,
             "image_url": "https://i.imgur.com/E0ITBnU.png",
-            "in_stock": true,
+            "in_stock": false,
             "is_highlight": false
         },
         {
