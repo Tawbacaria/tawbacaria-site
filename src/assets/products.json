@@ -1838,7 +1838,7 @@
             "description": "Teste",
             "price": 100000,
             "image_url": "https://i.imgur.com/MvHWciR.png",
-            "in_stock": true,
+            "in_stock": false,
             "is_highlight": false
         }
     ],
