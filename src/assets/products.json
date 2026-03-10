@@ -42,7 +42,7 @@
             "description": "Unidade de pacote com 36 folhas de Papel de Seda Papelito Tropical Slim",
             "price": 400,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/NRbIPAk.png"
         },
         {
@@ -87,7 +87,7 @@
             "description": "Dichavador de Policarbonato ultra resistente, com 5cm de diâmetro, atóxico",
             "price": 2200,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/G8ZQvIw.png"
         },
         {
@@ -96,7 +96,7 @@
             "description": "Dichavador de Policarbonato ultra resistente, com 5cm de diâmetro, atóxico",
             "price": 2200,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/fz9g8Qd.png"
         },
         {
@@ -105,7 +105,7 @@
             "description": "Dichavador de Policarbonato ultra resistente, com 5cm de diâmetro, atóxico",
             "price": 2200,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/QLua3qK.png"
         },
         {
@@ -258,7 +258,7 @@
             "description": "Bandeja de metal da Papelito, dimensões 18cm x 14cm",
             "price": 4000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/VPmj6gn.png"
         },
         {
@@ -276,7 +276,7 @@
             "description": "Cinzeiro de metal da Papelito, dimensões 137mm x 18mm",
             "price": 3000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/3KgTQMq.png"
         },
         {
@@ -285,7 +285,7 @@
             "description": "Cinzeiro de metal da Papelito, dimensões 137mm x 18mm",
             "price": 3000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/UpmAqxg.png"
         },
         {
@@ -312,7 +312,7 @@
             "description": "Cinzeiro de metal da Papelito, dimensões 137mm x 18mm",
             "price": 3000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/IUP6Ns1.png"
         },
         {
@@ -375,7 +375,7 @@
             "description": "1 unidade de caixa de Seda Papelito Longa Tradicional, suas dimensões são 130mm x 43mm, contendo 36 folhas de papel branco.",
             "price": 500,
             "image_url": "https://i.imgur.com/lBXgJHG.png",
-            "in_stock": false,
+            "in_stock": true,
             "is_highlight": false
         },
         {
@@ -440,6 +440,24 @@
             "image_url": "https://i.imgur.com/fY8YZf6.png",
             "in_stock": false,
             "is_highlight": false
+        },
+        {
+            "code": "seda-papelito-rosa",
+            "label": "Seda Papelito Rosa ",
+            "description": "Contém 36 folhas de seda. Produzidas com folha rosa, as sedas se destacam pelo visual moderno sem abrir mão da performance. O papel ultra fino garante queima lenta e uniforme, proporcionando uma experiência mais suave e preservando melhor o sabor. O formato King Size oferece mais espaço e praticidade no preparo.\r\n\r\n",
+            "price": 500,
+            "image_url": "https://i.imgur.com/hxE3MCE.png",
+            "in_stock": true,
+            "is_highlight": false
+        },
+        {
+            "code": "seda-papelito-alfafa",
+            "label": "Seda Papelito Alfafa",
+            "description": "A Seda Papelito Alfafa King Size foi desenvolvida para atender um público exigente, que reconhece qualidade, padrão elevado e consistência no resultado. Cada livreto conta com 36 sedas ultra finas, oferecendo excelente rendimento e uma experiência contínua, sem variações indesejadas. A queima lenta, uniforme e suave garante maior controle durante o uso, evitando desperdício e entregando um preparo mais previsível.",
+            "price": 600,
+            "image_url": "https://i.imgur.com/Kawsc9E.png",
+            "in_stock": true,
+            "is_highlight": false
         }
     ],
     "Essências Luky": [
@@ -488,7 +506,7 @@
             "label": "Luky Blue Fruits 🫐",
             "description": "55g de essência Luky, feito com tabaco premium, sabor amora, blueberry e jabuticaba",
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/7tXA7rK.png"
         },
         {
@@ -496,7 +514,7 @@
             "label": "Luky Nectar of the Gods",
             "description": "55g de essência Luky, feito com tabaco premium, sabor pêssego e ameixa",
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/io1Kd2A.png"
         }
     ],
@@ -506,7 +524,7 @@
             "label": "Ziggy Sorvete de Pistache 🍦💚",
             "description": "50g de Essência Ziggy para Narguile, sabor Sorvete de Pistache 🍦💚",
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/rpKvvZx.png"
         },
         {
@@ -618,7 +636,7 @@
             "label": "Ziggy Hapocalyx Mint 🌿",
             "description": "50g de Essência Ziggy para Narguile, sabor Menta 🌿",
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/fd4Qm1q.png"
         },
         {
@@ -733,7 +751,7 @@
             "description": "50g de essência Ziggy, sabor milho-verde.",
             "price": 1200,
             "image_url": "https://i.imgur.com/RaT3em3.png",
-            "in_stock": true,
+            "in_stock": false,
             "is_highlight": false
         },
         {
@@ -751,6 +769,15 @@
             "description": "50g de essência para narguilé da marca Ziggy, sabor Fresh Passion. Para quem busca algo parecido com a Love 66, esta essência é uma ótima alternativa, trazendo características que remetem ao famoso mix tropical e mentolado",
             "price": 1200,
             "image_url": "https://i.imgur.com/yi0VLBU.png",
+            "in_stock": true,
+            "is_highlight": false
+        },
+        {
+            "code": "ziggy-sorvete-limao",
+            "label": "Ziggy Sorvete de Limão",
+            "description": "50g de Essência Ziggy sabor Sorvete de Limão",
+            "price": 1200,
+            "image_url": "https://i.imgur.com/mdF0xAy.png",
             "in_stock": true,
             "is_highlight": false
         }
@@ -801,7 +828,7 @@
             "label": "Zomo Passion Lemonade",
             "description": "50g de Essência Zomo para Narguile, sabor Maracujá com Limão",
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/oEzCdw4.png"
         },
         {
@@ -1115,7 +1142,7 @@
             "label": "Onix Red Drops 🍓🍒",
             "description": "50g de Essência Onix Fusion Experience para Narguile, sabor Morango, Cereja e Tutti-frutti",
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/ETrSTEZ.png"
         },
         {
@@ -1123,7 +1150,7 @@
             "label": "Onix Drops 🍓🍉",
             "description": "50g de Essência Onix Fusion Experience para Narguile, sabor Morango e Melancia 🍓🍉",
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/aV8Dzww.png"
         },
         {
@@ -1131,7 +1158,7 @@
             "label": "Onix Goiaba e Morango 🍓",
             "description": "50g de Essência Onix Fusion Experience para Narguile, sabor Goiaba e Morango 🍓",
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/TAp0pEz.png"
         },
         {
@@ -1166,7 +1193,7 @@
             "description": "50g de Essência Onix Experience para Narguile, sabor Banana 🍌",
             "price": 1000,
             "image_url": "https://i.imgur.com/rEnfxbo.png",
-            "in_stock": false,
+            "in_stock": true,
             "is_highlight": false
         },
         {
@@ -1184,6 +1211,15 @@
             "description": "50g de essência da Onix, sabor frutas roxas",
             "price": 1000,
             "image_url": "https://i.imgur.com/ZxGAjK9.png",
+            "in_stock": true,
+            "is_highlight": false
+        },
+        {
+            "code": "onix-cherry-orange",
+            "label": "Onix Cherry Orange",
+            "description": "50g de Essência da marca Onix, sabor Cereja com Laranja",
+            "price": 1000,
+            "image_url": "https://i.imgur.com/gNGDaCz.png",
             "in_stock": true,
             "is_highlight": false
         }
@@ -1553,7 +1589,7 @@
             "label": "Nay Limão Goiaba",
             "description": "50g de Essência Nay, descubra a união perfeita entre o sabor intenso do blueberry e a suavidade da uva. Uma combinação única que proporciona o melhor dos dois mundos em cada sessão",
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/lMHFYCq.png"
         },
         {
@@ -1585,7 +1621,7 @@
             "label": "Nay Bubble Grape (Uva) 🍇",
             "description": "50g de Essência Nay, sabor Uva 🍇",
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/71kNZdx.png"
         },
         {
@@ -1763,6 +1799,33 @@
             "image_url": "https://i.imgur.com/5jYfkPn.png",
             "in_stock": true,
             "is_highlight": false
+        },
+        {
+            "code": "nay-pineapple-mint",
+            "label": "Nay Pineapple Mint",
+            "description": "50g de Essência da marca Nay, sabor abacaxi com menta",
+            "price": 1000,
+            "image_url": "https://i.imgur.com/tfnwgFO.png",
+            "in_stock": true,
+            "is_highlight": false
+        },
+        {
+            "code": "nay-green-apple-mint",
+            "label": "Nay Green Apple Mint",
+            "description": "50g de Essência da marca Nay, sabor maçã verde com menta",
+            "price": 1000,
+            "image_url": "https://i.imgur.com/FhIWw39.png",
+            "in_stock": true,
+            "is_highlight": false
+        },
+        {
+            "code": "nay-lemon-mint",
+            "label": "Nay Lemon Mint",
+            "description": "50g de Essência da marca Nay, sabor limão com menta",
+            "price": 1000,
+            "image_url": "https://i.imgur.com/LZl6YNx.png",
+            "in_stock": true,
+            "is_highlight": false
         }
     ],
     "Essências Chacal": [
@@ -1856,7 +1919,7 @@
             "label": "Ignite Lemon Melon 🍋🍈",
             "description": "50g de Essência Ignite, sabor Limão com Melão 🍋🍈",
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/DOVZZCO.png"
         },
         {
@@ -1972,7 +2035,7 @@
             "label": "Sense Absolut Mint 🧊",
             "description": "50g de Essência Sense, sabor refrescante de Menta Azul 🧊",
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/7vQC9Sq.png"
         },
         {
@@ -1980,7 +2043,7 @@
             "label": "Sense Candy Fruit 🍬",
             "description": "50g de Essência Sense, sabor Chiclete de Tutti-frutti 🍬",
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/CqxtAoR.png"
         },
         {
@@ -2015,7 +2078,7 @@
             "description": "50g de Essência Smyrna, a Smyrna True Love, aquele sabor mega conhecido do mix de melancia com melão que todo mundo ama",
             "is_highlight": false,
             "price": 1400,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/iwtm4En.png"
         },
         {
@@ -2023,7 +2086,7 @@
             "label": "Smyrna Melancia Kiwi 🍉🥝",
             "description": "50g de Essência Smyrna, a Smyrna Melancia Kiwi traz o sabor das frutas do Kiwi e Melancia juntas, proporcionando um mix perfeito e muito saboroso. A essência une o doce e cítrico, sendo ideal para fumar em qualquer época do ano",
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/wUabzXR.png"
         },
         {
@@ -2127,7 +2190,7 @@
             "label": "Smyrna Zeus - Linha dos Deuses 🥶",
             "description": "50g de Essência Smyrna, a essência Zeus da linha Era dos Deuses da Smyrna apresenta um sabor incrível de menta gelada. Essa foi feita para você que é amante de menta",
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/tgnYBzI.png"
         },
         {
@@ -2171,7 +2234,7 @@
             "description": "50g de Essência Smyrna, sabor Melão Refrescante",
             "price": 1200,
             "image_url": "https://i.imgur.com/fN45Qji.png",
-            "in_stock": true,
+            "in_stock": false,
             "is_highlight": false
         },
         {
@@ -2180,7 +2243,7 @@
             "description": "50g de Essência Smyrna, sabor banana.",
             "price": 1200,
             "image_url": "https://i.imgur.com/fMioDi5.png",
-            "in_stock": false,
+            "in_stock": true,
             "is_highlight": false
         },
         {
@@ -2236,7 +2299,7 @@
             "description": "50g de essência para narguilé Fusion, sabor melancia gelada",
             "price": 1000,
             "image_url": "https://i.imgur.com/UMRUHsE.jpeg",
-            "in_stock": true,
+            "in_stock": false,
             "is_highlight": false
         },
         {
@@ -2245,7 +2308,7 @@
             "description": "50g de essência Fusion, sabor cola e limão",
             "price": 1000,
             "image_url": "https://i.imgur.com/3ddWE2f.jpeg",
-            "in_stock": true,
+            "in_stock": false,
             "is_highlight": false
         },
         {
@@ -2263,7 +2326,7 @@
             "description": "50g de essência Fusion, sabor goiaba e limão",
             "price": 1000,
             "image_url": "https://i.imgur.com/159xh84.png",
-            "in_stock": true,
+            "in_stock": false,
             "is_highlight": false
         }
     ],
@@ -2289,7 +2352,7 @@
             "label": "Chacal Erva-Mate Limão",
             "description": "500g de Erva-Mate para Tereré, sabor de folhas do mate com limão",
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/TCQWUSR.png"
         },
         {
@@ -2297,7 +2360,7 @@
             "label": "Chacal Erva-Mate Hortelã Ice",
             "description": "500g de Erva-Mate para Tereré, sabor de folhas do mate com hortelã refrescante",
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/U9pdeJf.png"
         },
         {
@@ -2305,7 +2368,7 @@
             "label": "Chacal Erva-Mate Limão Rosa",
             "description": "500g de Erva-Mate para Tereré, sabor de folhas do mate com limão rosa",
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/YVDvspB.png"
         },
         {
@@ -2321,7 +2384,7 @@
             "label": "Chacal Erva-Mate Pura Folha",
             "description": "500g de Erva-Mate para Tereré, sabor autêntico das folhas do mate",
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/n7P7aOk.png"
         },
         {
@@ -2345,7 +2408,7 @@
             "label": "Chacal Erva-Mate Energético",
             "description": "500g de Erva-Mate para Tereré, inspiradas nos energéticos",
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/1osV5PY.png"
         },
         {
@@ -2377,7 +2440,7 @@
             "label": "Chacal Erva-Mate Cereja",
             "description": "500g de Erva-Mate para Tereré, sabor de folhas do mate com cereja",
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/OH94QKl.png"
         },
         {
@@ -2385,7 +2448,7 @@
             "label": "Chacal Erva-Mate Menta Xtreme 🥶",
             "description": "500g de Erva-Mate para Tereré, sabor de folhas do mate com um intenso sabor de menta",
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/gFb8TIP.png"
         },
         {
@@ -2504,7 +2567,7 @@
             "description": "Caixa com 1kg de Carvão D'coco Hexagonal",
             "price": 4500,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/QArp0rR.png"
         },
         {
@@ -2859,7 +2922,7 @@
             "description": "Tabaco nacional desenvolvido pela Amsterdam Tabaco, com fumo Natural 100% Livre de Aditivos. Embalagem reciclável, não agride o meio ambiente. Contém 25g",
             "price": 1800,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/sMnpZgN.png"
         },
         {
@@ -2994,7 +3057,7 @@
             "description": "Unidade de Kumbaya Tonabê (Tobemzen) Trip 15gr, mix de ervas sabor:\r\nERVA CIDREIRA, ALECRIM DO NORTE, CAMOMILA, SALVIA e MENTA.",
             "price": 1500,
             "image_url": "https://i.imgur.com/hRjBLCu.png",
-            "in_stock": true,
+            "in_stock": false,
             "is_highlight": false
         },
         {
@@ -3012,7 +3075,7 @@
             "description": "1 unidade de Tabaco Acrema Blend de 20g. Um dos baquinhos mais procurados para blend com extrações. Tabaco virgínia, destalado manualmente, com corte extra fino e coloração clara.",
             "price": 1800,
             "image_url": "https://i.imgur.com/n5cZwIM.jpeg",
-            "in_stock": false,
+            "in_stock": true,
             "is_highlight": false
         },
         {
@@ -3093,7 +3156,7 @@
             "description": "O Tabaco Dublin Pink traz toda a douçura do sabor de tutti frutti, para quem gosta de um sabor mais doce, é uma ótima opção.",
             "price": 2000,
             "image_url": "https://i.imgur.com/mIXy4hP.png",
-            "in_stock": true,
+            "in_stock": false,
             "is_highlight": false
         },
         {
@@ -3111,6 +3174,33 @@
             "description": "Fumo Xororó desfiado, pacote com 21g.",
             "price": 600,
             "image_url": "https://i.imgur.com/8HVGqsv.png",
+            "in_stock": true,
+            "is_highlight": false
+        },
+        {
+            "code": "palheiro-paulistinha-menta",
+            "label": "Palheiro Paulistinha Menta 20 unidades",
+            "description": "Caixa com 20 unidades de Palheiro Paulistinha, sabor menta",
+            "price": 3500,
+            "image_url": "https://i.imgur.com/H7aMbg9.png",
+            "in_stock": true,
+            "is_highlight": false
+        },
+        {
+            "code": "kumbaya-vibe",
+            "label": "Kumbaya Tonabê Vibe",
+            "description": "Kumbaya Tonabê Vibe 15gr mix de ervas sabor: SALVIA, CAMOMILA, CALENDULA, ERVA CIDREIRA e ERVA DOCE",
+            "price": 1500,
+            "image_url": "https://i.imgur.com/XsVddzk.png",
+            "in_stock": true,
+            "is_highlight": false
+        },
+        {
+            "code": "sanmarino",
+            "label": "Cigarro Sanmarino Box",
+            "description": "Cigarro Sanmarino Box Filtro Branco 20 unidades",
+            "price": 500,
+            "image_url": "https://i.imgur.com/ksFXchW.png",
             "in_stock": true,
             "is_highlight": false
         }
@@ -3203,7 +3293,7 @@
             "description": "30ml de Juice Crazy Clouds para vaper (com 3mg de nicotina), sabor Melão, Melancia e Menta 🍈🍉🌿",
             "price": 3500,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/Ok7wYxd.png"
         },
         {
@@ -3655,7 +3745,7 @@
             "description": "Unidade com 33 de folhas de Papel de Seda Zomo Perfect Hemp feita em Goma Arábica Natural. Papel de fibra de cânhamo, 100% orgânico, livre de psicoativos, sem químicas e aditivos. O papel de cânhamo é mais resistente do que o papel normal, sete vezes mais reciclável e não contém toxinas.",
             "price": 400,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/V4bzEE1.png",
             "discount": {
                 "discount": 200,
@@ -4067,7 +4157,7 @@
             "description": "Disponível nas cores branco e verde. MEDIDAS 5x3cm",
             "price": 4000,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/Xa7Pm5C.png"
         },
         {
@@ -4211,7 +4301,7 @@
             "description": "Unidade de pacote com 5 folhas para blunt com um aroma de uva, tamanho 110mm x 44mm",
             "price": 1200,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/6I8Tmw9.png"
         },
         {
@@ -4265,7 +4355,7 @@
             "description": "Bolador simples para enrolar seus cigarros, 12cm de comprimento. Disponível nas cores vermelha e azul",
             "price": 2200,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/6brwpuF.png"
         },
         {
@@ -4292,7 +4382,7 @@
             "description": "Bong de acrílico de 20cm. Disponíveis na cor amarela e verde",
             "price": 4000,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/VwuphrG.png"
         },
         {
@@ -4544,7 +4634,7 @@
             "description": "Bong de Vidro 12cm (CONFERIR MODELOS DISPONÍVEIS)",
             "price": 4800,
             "image_url": "https://i.imgur.com/JdLGm1i.png",
-            "in_stock": true,
+            "in_stock": false,
             "is_highlight": false
         },
         {
@@ -4607,7 +4697,7 @@
             "description": "Dichavador confeccionado em metal super resistente. Possui fechamento com imã de neodímio.\r\n\r\nNúmero de compartimentos: 3.\r\nTipo de dente: Losango.\r\nAltura: 1,5cm.\r\nDiâmetro: 3cm.",
             "price": 2500,
             "image_url": "https://i.imgur.com/wP1jIAB.png",
-            "in_stock": false,
+            "in_stock": true,
             "is_highlight": false
         },
         {
@@ -4616,7 +4706,7 @@
             "description": "Medidas: 210mm x 115mm",
             "price": 3000,
             "image_url": "https://i.imgur.com/YJGG9yj.png",
-            "in_stock": true,
+            "in_stock": false,
             "is_highlight": false
         },
         {
@@ -4652,7 +4742,7 @@
             "description": "Slick Sadhu 11ml \r\nMaterial Silicone",
             "price": 2500,
             "image_url": "https://i.imgur.com/meZpGSo.png",
-            "in_stock": true,
+            "in_stock": false,
             "is_highlight": false
         },
         {
@@ -4733,6 +4823,42 @@
             "description": "O cinzeiro Tonabê é o complemento perfeito para qualquer ambiente, combinando funcionalidade e elegância em um design sofisticado. Fabricado com vidro temperado de alta qualidade, este cinzeiro oferece durabilidade excepcional e resistência ao calor, garantindo sua longevidade mesmo com o uso constante. Sua forma arredondada proporciona uma estética moderna e discreta, enquanto sua praticidade permite fácil limpeza e manutenção.\r\n\r\nPeso: 236g\r\nAltura: 3cm\r\nDiâmetro: 10,5cm",
             "price": 3000,
             "image_url": "https://i.imgur.com/Rnz7LFq.png",
+            "in_stock": false,
+            "is_highlight": false
+        },
+        {
+            "code": "slick-vidro-tonabe-5",
+            "label": "Slick Vidro Tonabê 5ml",
+            "description": "Reservatório de vidro, cada um com tampa preta em silicone resistente. Cada slick mede aproximadamente 2,3 cm de altura por 3,5 cm de largura, sendo compacto, leve e fácil de transportar. As estampas variadas tornam o produto ainda mais atrativo, prático e único.",
+            "price": 1800,
+            "image_url": "https://i.imgur.com/hsSuM5a.png",
+            "in_stock": true,
+            "is_highlight": false
+        },
+        {
+            "code": "slick-vidro-tonabe-9",
+            "label": "Slick Vidro Tonabê Com Repartição 9ml ",
+            "description": "Reservatório de vidro, cada um com tampa preta em silicone resistente. Com capacidade total de 9ml, esse modelo conta com medidas aproximadas de 2,3 cm de altura por 4 cm de largura, sendo compacto, durável e altamente eficiente para manter a pureza do material armazenado. A divisória interna é perfeita para quem busca versatilidade no uso, seja para armazenar diferentes extratos, essências, cosméticos ou amostras.",
+            "price": 2000,
+            "image_url": "https://i.imgur.com/9HYvgxM.png",
+            "in_stock": true,
+            "is_highlight": false
+        },
+        {
+            "code": "case-tonabe-full-print",
+            "label": "(CONFERIR MODELOS DISPONÍVEIS) Case Tonabê Full Print",
+            "description": "Características do produto:\r\n- Marca: To Na Bê\r\n- Quantidade: 1 Case\r\n- Dimensão: 15cm x 9cm x 4cm\r\n- Composição: EVA e tecidos\r\n- Modelo: Case G",
+            "price": 6000,
+            "image_url": "https://i.imgur.com/VzVEqwx.png",
+            "in_stock": true,
+            "is_highlight": false
+        },
+        {
+            "code": "case-tonabe-color",
+            "label": "(CONFERIR MODELOS DISPONÍVEIS) Case Tonabê Color",
+            "description": "- Marca: Tô Na Bê\r\n- Dimensões: 15 cm x 9,5 cm\r\n- Modelo: G (Grande)\r\n- Material: Revestimento resistente com divisórias internas",
+            "price": 5000,
+            "image_url": "https://i.imgur.com/K0SehVN.png",
             "in_stock": true,
             "is_highlight": false
         }
@@ -4807,7 +4933,7 @@
             "description": "Unidade de Rosh de Cerâmica da Bking",
             "price": 3500,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/Tq4OIFI.png"
         },
         {
@@ -4888,7 +5014,7 @@
             "description": "Unidade de Rosh de Barro da Osiris",
             "price": 3500,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/0m4UBnN.png"
         },
         {
@@ -4897,7 +5023,7 @@
             "description": "Unidade de Rosh de Cerâmica da Seven Hookah",
             "price": 5500,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/84YOrIS.png"
         },
         {
@@ -4960,7 +5086,7 @@
             "description": "Unidade de Rosh de Cerâmica da Seven Hookah",
             "price": 6500,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/6UyDbfk.png"
         },
         {
@@ -5095,7 +5221,7 @@
             "description": "Unidade de Rosh de cerâmica da Fluxo Bowl",
             "price": 2000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/hAeh9ts.png"
         },
         {
@@ -5122,7 +5248,7 @@
             "description": "Unidade de Pegador de Carvão de 18cm da Soberano",
             "price": 1800,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/2F3oe7u.png"
         },
         {
@@ -5230,7 +5356,7 @@
             "description": "Unidade de Pegador de Carvão de 25cm da Seven Hookah",
             "price": 2500,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/L6bYDLd.png"
         },
         {
@@ -5248,7 +5374,7 @@
             "description": "Unidade de Piteira de Alumínio 40cm, imagem meramente ilustrativa",
             "price": 2000,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/AMdQdmn.jpeg"
         },
         {
@@ -5257,7 +5383,7 @@
             "description": "Unidade de Piteira de Alumínio 40cm, imagem meramente ilustrativa",
             "price": 2000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/EeHaxxh.png"
         },
         {
@@ -5266,7 +5392,7 @@
             "description": "Unidade de Piteira de Alumínio 40cm, imagem meramente ilustrativa",
             "price": 2000,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/suYaCYs.png"
         },
         {
@@ -5275,7 +5401,7 @@
             "description": "Unidade de Piteira de Alumínio 40cm, imagem meramente ilustrativa",
             "price": 2000,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/sQ0IZ1S.png"
         },
         {
@@ -5293,7 +5419,7 @@
             "description": "Unidade de Piteira de Alumínio 40cm, imagem meramente ilustrativa",
             "price": 2000,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/5jrBPmW.jpeg"
         },
         {
@@ -5680,7 +5806,7 @@
             "description": "Unidade de Vaso ZH Mini de vidro em coloração vermelha",
             "price": 3500,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/AuYItBS.png"
         },
         {
@@ -5779,7 +5905,7 @@
             "description": "Controlador de calor de alumínio com alça de silicone",
             "price": 3500,
             "is_highlight": false,
-            "in_stock": true,
+            "in_stock": false,
             "image_url": "https://i.imgur.com/TdqclET.png"
         },
         {
@@ -5869,7 +5995,7 @@
             "description": "Mangueira de silicone da Slim, com 1,5 metros de comprimento, em coloração Azul Escuro",
             "price": 2500,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/oAJLXL4.png"
         },
         {
@@ -5887,7 +6013,7 @@
             "description": "Mangueira de silicone, com 1,5 metros de comprimento, em coloração Branca",
             "price": 2500,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/kmpWwBW.png"
         },
         {
@@ -5977,7 +6103,7 @@
             "description": "Compatível com os seguintes vapers: Sky Solo; Sky Solo Plus, Luxe 2, Gen S",
             "price": 5000,
             "is_highlight": false,
-            "in_stock": false,
+            "in_stock": true,
             "image_url": "https://i.imgur.com/Fk6GQBb.png"
         },
         {
@@ -6022,7 +6148,7 @@
             "description": "Unidade de Rosh IA Mesclado Azul",
             "price": 4000,
             "image_url": "https://i.imgur.com/vwZyl1O.jpeg",
-            "in_stock": true,
+            "in_stock": false,
             "is_highlight": false
         },
         {
@@ -6040,7 +6166,7 @@
             "description": "Unidade de Rosh RR Camaleão",
             "price": 3500,
             "image_url": "https://i.imgur.com/oCXAlwQ.jpeg",
-            "in_stock": false,
+            "in_stock": true,
             "is_highlight": false
         },
         {
@@ -6049,7 +6175,7 @@
             "description": "Unidade de Rosh RR Branco Perolado",
             "price": 3500,
             "image_url": "https://i.imgur.com/5TA2AZ6.jpeg",
-            "in_stock": false,
+            "in_stock": true,
             "is_highlight": false
         },
         {
@@ -6058,7 +6184,7 @@
             "description": "Unidade de Rosh RR Azul Perolado",
             "price": 3500,
             "image_url": "https://i.imgur.com/4ZwQ7hw.jpeg",
-            "in_stock": false,
+            "in_stock": true,
             "is_highlight": false
         },
         {
@@ -6085,7 +6211,7 @@
             "description": "Pegador Invictus Azul Claro 24cm",
             "price": 2000,
             "image_url": "https://i.imgur.com/ktZH0zP.png",
-            "in_stock": true,
+            "in_stock": false,
             "is_highlight": false
         },
         {
@@ -6103,7 +6229,7 @@
             "description": "Vaso Glass Sky Rosa Escuro 14cm",
             "price": 4000,
             "image_url": "https://i.imgur.com/dFlwKhh.png",
-            "in_stock": true,
+            "in_stock": false,
             "is_highlight": false
         },
         {
@@ -6130,7 +6256,7 @@
             "description": "Mangueira de silicone da Slim, com 1,5 metros de comprimento, em coloração Preto",
             "price": 2500,
             "image_url": "https://i.imgur.com/Wdm6VvB.png",
-            "in_stock": false,
+            "in_stock": true,
             "is_highlight": false
         },
         {
@@ -6175,7 +6301,7 @@
             "description": "Unidade de Rosh Basic Bowl Preto Brilhante",
             "price": 2000,
             "image_url": "https://i.imgur.com/4ETGDdm.png",
-            "in_stock": true,
+            "in_stock": false,
             "is_highlight": false
         },
         {
@@ -6184,7 +6310,7 @@
             "description": "Unidade de Rosh Basic Bowl Branco",
             "price": 2000,
             "image_url": "https://i.imgur.com/Hzzg9rZ.png",
-            "in_stock": false,
+            "in_stock": true,
             "is_highlight": false
         },
         {
@@ -6238,6 +6364,51 @@
             "description": "Vaso Glass Sky Azul Claro 14cm",
             "price": 4000,
             "image_url": "https://i.imgur.com/aGgYZZe.png",
+            "in_stock": true,
+            "is_highlight": false
+        },
+        {
+            "code": "vaso-preto-listrado",
+            "label": "Vaso Preto Listras Brancas",
+            "description": "Vaso Preto Listras Brancas 14cm",
+            "price": 4000,
+            "image_url": "https://i.imgur.com/u96rknX.png",
+            "in_stock": true,
+            "is_highlight": false
+        },
+        {
+            "code": "vaso-rosa-listrado",
+            "label": "Vaso Preto Listras Brancas",
+            "description": "Vaso Rosa Listras Brancas 14cm",
+            "price": 4000,
+            "image_url": "https://i.imgur.com/MbU7rNk.png",
+            "in_stock": true,
+            "is_highlight": false
+        },
+        {
+            "code": "vaso-azul-listrado",
+            "label": "Vaso Azul Listras Brancas",
+            "description": "Vaso Azul Listras Brancas 14cm",
+            "price": 4000,
+            "image_url": "https://i.imgur.com/847pwFq.png",
+            "in_stock": true,
+            "is_highlight": false
+        },
+        {
+            "code": "mangueira-rosa-escuro",
+            "label": "Mangueira De Silicone Slim 1,5m - Rosa Escuro",
+            "description": "Mangueira De Silicone Slim 1,5m - Rosa Escuro (OBS: Não acompanha a mola)",
+            "price": 2500,
+            "image_url": "https://i.imgur.com/s9sbOWo.png",
+            "in_stock": true,
+            "is_highlight": false
+        },
+        {
+            "code": "rosh-simples-rosa",
+            "label": "Rosh Simples Rosa Claro",
+            "description": "Rosh Simples Rosa Claro",
+            "price": 2000,
+            "image_url": "https://i.imgur.com/s4ad0pq.png",
             "in_stock": true,
             "is_highlight": false
         }
@@ -6384,7 +6555,7 @@
             "description": "Água com gás,aroma natural de limão 500ML, marca Minnerata",
             "price": 400,
             "image_url": "https://i.imgur.com/7Xog1Rv.png",
-            "in_stock": true,
+            "in_stock": false,
             "is_highlight": false
         },
         {
@@ -6420,7 +6591,7 @@
             "description": "Batata Lisa sabor Frango Grelhado 40g",
             "price": 600,
             "image_url": "https://i.imgur.com/A9UYmBC.png",
-            "in_stock": true,
+            "in_stock": false,
             "is_highlight": false
         },
         {
@@ -6429,7 +6600,7 @@
             "description": "Batata Lisa sabor Peito de Peru 40g",
             "price": 600,
             "image_url": "https://i.imgur.com/uoe6p9P.png",
-            "in_stock": true,
+            "in_stock": false,
             "is_highlight": false
         },
         {
@@ -6438,7 +6609,7 @@
             "description": "Batata Lisa Frita 35g",
             "price": 500,
             "image_url": "https://i.imgur.com/WIeLs38.png",
-            "in_stock": true,
+            "in_stock": false,
             "is_highlight": false
         },
         {
@@ -6447,7 +6618,7 @@
             "description": "Doritos Sabor Queijo Nacho 37g",
             "price": 500,
             "image_url": "https://i.imgur.com/BvYNeDR.png",
-            "in_stock": true,
+            "in_stock": false,
             "is_highlight": false
         },
         {
@@ -6456,7 +6627,7 @@
             "description": "Cebolitos 36g",
             "price": 400,
             "image_url": "https://i.imgur.com/J4ABnV5.png",
-            "in_stock": true,
+            "in_stock": false,
             "is_highlight": false
         },
         {
@@ -6474,7 +6645,7 @@
             "description": "Batata Frita Ondulada sabor Cebola e Salsa 32g",
             "price": 400,
             "image_url": "https://i.imgur.com/AyAVPu3.png",
-            "in_stock": true,
+            "in_stock": false,
             "is_highlight": false
         },
         {
@@ -6483,7 +6654,7 @@
             "description": "Fandangos Presunto 37g",
             "price": 400,
             "image_url": "https://i.imgur.com/oWMmFGD.png",
-            "in_stock": true,
+            "in_stock": false,
             "is_highlight": false
         },
         {
@@ -6492,7 +6663,7 @@
             "description": "Fandangos Queijo 37g",
             "price": 400,
             "image_url": "https://i.imgur.com/2A9KPPj.png",
-            "in_stock": true,
+            "in_stock": false,
             "is_highlight": false
         },
         {
@@ -6519,6 +6690,60 @@
             "description": "Bala Energética Dot Frutas Vermelhas 3,2g",
             "price": 300,
             "image_url": "https://i.imgur.com/jXBDgxv.png",
+            "in_stock": true,
+            "is_highlight": false
+        },
+        {
+            "code": "halls-menta",
+            "label": "Halls Menta 28g",
+            "description": "1 Emabalagem de Halls de Menta com 21 balas",
+            "price": 300,
+            "image_url": "https://i.imgur.com/xk52Ugn.png",
+            "in_stock": true,
+            "is_highlight": false
+        },
+        {
+            "code": "halls-menta-prata",
+            "label": "Halls Menta Prata 28g",
+            "description": "1 Emabalagem de Halls de Menta Prata com 21 balas",
+            "price": 300,
+            "image_url": "https://i.imgur.com/HwRPPM2.png",
+            "in_stock": true,
+            "is_highlight": false
+        },
+        {
+            "code": "trident-melancia",
+            "label": "Trident Melancia 8g",
+            "description": "Trident Melancia 8g (5 unidades)",
+            "price": 300,
+            "image_url": "https://i.imgur.com/Or6L0GF.png",
+            "in_stock": true,
+            "is_highlight": false
+        },
+        {
+            "code": "agua-com-gas",
+            "label": "Água com Gás 510ml",
+            "description": "1 unidade de Água com Gás 510ml",
+            "price": 400,
+            "image_url": "https://i.imgur.com/fQYNRXg.png",
+            "in_stock": true,
+            "is_highlight": false
+        },
+        {
+            "code": "bombom-ouro-branco",
+            "label": "Bombom de Chocolate Ouro Branco 20g",
+            "description": "1 unidade de Bombom de Chocolate Ouro Branco 20g",
+            "price": 300,
+            "image_url": "https://i.imgur.com/kwWomek.png",
+            "in_stock": true,
+            "is_highlight": false
+        },
+        {
+            "code": "energetico-monster",
+            "label": "Enérgetico Monster Tradicional 473ml (GELADO)",
+            "description": "1 Lata de Enérgetico Monster Tradicional 473ml (GELADO)",
+            "price": 1200,
+            "image_url": "https://i.imgur.com/ddLbvH6.png",
             "in_stock": true,
             "is_highlight": false
         }
