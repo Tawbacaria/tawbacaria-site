@@ -6411,6 +6411,15 @@
             "image_url": "https://i.imgur.com/s4ad0pq.png",
             "in_stock": true,
             "is_highlight": false
+        },
+        {
+            "code": "piteira-generica-azul-claro",
+            "label": "Piteira de Alumínio 40cm - Azul Claro",
+            "description": "Unidade de Piteira de Alumínio 40cm, imagem meramente ilustrativa",
+            "price": 2000,
+            "image_url": "https://i.imgur.com/xuJXMJl.png",
+            "in_stock": true,
+            "is_highlight": false
         }
     ],
     "Bebidas e Comidas": [
