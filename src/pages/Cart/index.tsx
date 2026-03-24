@@ -143,7 +143,9 @@ export default function Cart() {
         0
     );
 
-    const isDeliveryFree = !!freeDeliveryPrice && totalPriceNoFee >= freeDeliveryPrice;
+    const isDeliveryFree = !!freeDeliveryPrice && 
+        totalPriceNoFee >= freeDeliveryPrice && 
+        ['Dinheiro', 'PIX'].includes(paymentMethod.method);
     const deliveryFee = deliveryDistrict?.price ?? 0;
     const totalPrice = totalPriceNoFee + (!isDeliveryFree ? deliveryFee : 0);
 
@@ -566,7 +568,7 @@ export default function Cart() {
                                         isInvalid={paymentMethod.method === ''}
                                     >
                                         <FormLabel>
-                                            Forma de pagamento
+                                            Forma de pagamento (frete grátis apenas para dinheiro/PIX)
                                         </FormLabel>
                                         <Select
                                             value={paymentMethod.method}
