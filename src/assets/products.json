@@ -1,24 +1,6 @@
 {
     "Papelito": [
         {
-            "code": "filtro-papelito-mentolados",
-            "label": "Filtros Papelito Mentolados",
-            "description": "Unidade de pacote com 120 filtros de 6mm x 15mm, mentolados com sabor refrescante",
-            "price": 1200,
-            "is_highlight": false,
-            "in_stock": true,
-            "image_url": "https://i.imgur.com/VstNZRi.png"
-        },
-        {
-            "code": "filtro-papelito-ultralongo",
-            "label": "Filtros Papelito Ultra Longos Tradicionais",
-            "description": "Unidade de pacote com 120 filtros de 30mm x 6mm. Filtro Papelito Tradicional Ultra Longo é uma escolha excelente para consumidores que buscam uma solução prática e eficaz para consumir de forma mais consciente e segura, oferecendo proteção superior e uma redução significativa de danos à saúde.",
-            "price": 1200,
-            "is_highlight": false,
-            "in_stock": true,
-            "image_url": "https://i.imgur.com/xf9qvBq.png"
-        },
-        {
             "code": "seda-papelito-tradicional-ks",
             "label": "Seda Papelito Tradicional King Size",
             "description": "Unidade de pacote com 36 folhas de Papel de Seda Papelito Tradicional King Size",
@@ -157,10 +139,10 @@
             "code": "papelito-ultra-longa-piteira",
             "label": "Piteira Papelito Ultra Longa",
             "description": "Contém 30 blocos com 72 piteiras, tamanho 4,5x4cm",
-            "price": 800,
+            "image_url": "https://i.imgur.com/SSFRAck.png",
+            "in_stock": false,
             "is_highlight": false,
-            "in_stock": true,
-            "image_url": "https://i.imgur.com/SSFRAck.png"
+            "price": 800
         },
         {
             "code": "papelito-seda-tradicional-mini-size",
@@ -458,17 +440,27 @@
             "image_url": "https://i.imgur.com/cVjFdiD.png",
             "in_stock": true,
             "is_highlight": false
+        },
+        {
+            "code": "filtro-papelito-mentolados",
+            "label": "Filtros Papelito Mentolados",
+            "description": "Unidade de pacote com 120 filtros de 6mm x 15mm, mentolados com sabor refrescante",
+            "image_url": "https://i.imgur.com/VstNZRi.png",
+            "in_stock": false,
+            "is_highlight": false,
+            "price": 1200
+        },
+        {
+            "code": "filtro-papelito-ultralongo",
+            "label": "Filtros Papelito Ultra Longos Tradicionais",
+            "description": "Unidade de pacote com 120 filtros de 30mm x 6mm. Filtro Papelito Tradicional Ultra Longo é uma escolha excelente para consumidores que buscam uma solução prática e eficaz para consumir de forma mais consciente e segura, oferecendo proteção superior e uma redução significativa de danos à saúde.",
+            "image_url": "https://i.imgur.com/xf9qvBq.png",
+            "in_stock": false,
+            "is_highlight": false,
+            "price": 1200
         }
     ],
     "Essências Luky": [
-        {
-            "code": "essencia-luky-melon",
-            "label": "Luky Melon Gaul 🍈",
-            "description": "55g de essência Luky, feito com tabaco premium, sabor melão espanhol",
-            "is_highlight": false,
-            "in_stock": true,
-            "image_url": "https://i.imgur.com/4UbKzdM.png"
-        },
         {
             "code": "essencia-luky-icemint",
             "label": "Luky Ice Mint 🥶",
@@ -489,9 +481,9 @@
             "code": "essencia-luky-lemon",
             "label": "Luky Lemon 🍋",
             "description": "55g de essência Luky, feito com tabaco premium, sabor limão",
-            "is_highlight": false,
-            "in_stock": true,
-            "image_url": "https://i.imgur.com/OC2V1YW.png"
+            "image_url": "https://i.imgur.com/OC2V1YW.png",
+            "in_stock": false,
+            "is_highlight": false
         },
         {
             "code": "essencia-luky-redfruits",
@@ -516,6 +508,14 @@
             "is_highlight": false,
             "in_stock": false,
             "image_url": "https://i.imgur.com/io1Kd2A.png"
+        },
+        {
+            "code": "essencia-luky-melon",
+            "label": "Luky Melon Gaul 🍈",
+            "description": "55g de essência Luky, feito com tabaco premium, sabor melão espanhol",
+            "image_url": "https://i.imgur.com/4UbKzdM.png",
+            "in_stock": false,
+            "is_highlight": false
         }
     ],
     "Essências Ziggy": [
@@ -795,9 +795,9 @@
             "code": "zomo-strong-mint-hype",
             "label": "Zomo Hype - Linha Strong Mint",
             "description": "50g de Essência Zomo para Narguile, mix de mentas Européias com um sabor suave da bala de menta",
-            "is_highlight": false,
-            "in_stock": true,
-            "image_url": "https://i.imgur.com/GlhkKmc.png"
+            "image_url": "https://i.imgur.com/GlhkKmc.png",
+            "in_stock": false,
+            "is_highlight": false
         },
         {
             "code": "0619205823712",
@@ -987,9 +987,9 @@
             "code": "zomo-strong-drops-cereja",
             "label": "Zomo Cereja 🍒 - Linha Strong Drops",
             "description": "50g de Essência Zomo para Narguile. Strong Drops Cereja é a solução para você que coloca aquela balinha no arguile. Essa essência tem aquele sabor que você já conhece muito bem, só que com refrescância e ousadia Zomo!",
-            "is_highlight": false,
-            "in_stock": false,
-            "image_url": "https://i.imgur.com/enfP4lW.png"
+            "image_url": "https://i.imgur.com/enfP4lW.png",
+            "in_stock": true,
+            "is_highlight": false
         },
         {
             "code": "zomo-max-blueberry",
@@ -1220,6 +1220,30 @@
             "description": "50g de Essência da marca Onix, sabor cereja com laranja",
             "price": 1000,
             "image_url": "https://i.imgur.com/Xh3qAWc.png",
+            "in_stock": true,
+            "is_highlight": false
+        },
+        {
+            "code": "onixgoiabaemaracuja",
+            "label": "Onix Goiaba e Maracujá",
+            "description": "50g de essência Onix sabor Onix Goiaba e Maracujá",
+            "image_url": "https://i.imgur.com/XeKtlan.png",
+            "in_stock": true,
+            "is_highlight": false
+        },
+        {
+            "code": "onixcocoelimao",
+            "label": "Onix Coco e Limão",
+            "description": "50g de essência Onix sabor Coco e Limão",
+            "image_url": "https://i.imgur.com/3a3oNHV.png",
+            "in_stock": true,
+            "is_highlight": false
+        },
+        {
+            "code": "onixkoke",
+            "label": "Onix Koke (Coca-Cola)",
+            "description": "50g de essência Onix sabor Coca-Cola",
+            "image_url": "https://i.imgur.com/vVp06zd.png",
             "in_stock": true,
             "is_highlight": false
         }
@@ -2332,14 +2356,6 @@
     ],
     "Ervas para Tereré": [
         {
-            "code": "0618231624423",
-            "label": "Chacal Erva-Mate Menta Limão Rosa",
-            "description": "500g de Erva-Mate Menta Limão Rosa",
-            "is_highlight": false,
-            "in_stock": true,
-            "image_url": "https://i.imgur.com/YhWQ4Ku.png"
-        },
-        {
             "code": "0618231624560",
             "label": "Chacal Erva-Mate Tangerina da Roça",
             "description": "50g de Essência Chacal Erva-Mate Tangerina da Roça",
@@ -2359,9 +2375,9 @@
             "code": "0619205423567",
             "label": "Chacal Erva-Mate Hortelã Ice",
             "description": "500g de Erva-Mate para Tereré, sabor de folhas do mate com hortelã refrescante",
-            "is_highlight": false,
-            "in_stock": false,
-            "image_url": "https://i.imgur.com/U9pdeJf.png"
+            "image_url": "https://i.imgur.com/U9pdeJf.png",
+            "in_stock": true,
+            "is_highlight": false
         },
         {
             "code": "0619205423554",
@@ -2415,9 +2431,9 @@
             "code": "0602883851129",
             "label": "Chacal Erva-Mate Menta",
             "description": "500g de Erva-Mate para Tereré, sabor de folhas do mate com menta",
-            "is_highlight": false,
-            "in_stock": false,
-            "image_url": "https://i.imgur.com/Jt7cQI7.png"
+            "image_url": "https://i.imgur.com/Jt7cQI7.png",
+            "in_stock": true,
+            "is_highlight": false
         },
         {
             "code": "0602883951143",
@@ -2439,9 +2455,9 @@
             "code": "0618231164882",
             "label": "Chacal Erva-Mate Cereja",
             "description": "500g de Erva-Mate para Tereré, sabor de folhas do mate com cereja",
-            "is_highlight": false,
-            "in_stock": true,
-            "image_url": "https://i.imgur.com/OH94QKl.png"
+            "image_url": "https://i.imgur.com/OH94QKl.png",
+            "in_stock": false,
+            "is_highlight": false
         },
         {
             "code": "0619205423523",
@@ -2457,6 +2473,14 @@
             "description": "500g de Erva-Mate para Tereré, sabor uva",
             "price": 2000,
             "image_url": "https://i.imgur.com/raDC97l.png",
+            "in_stock": false,
+            "is_highlight": false
+        },
+        {
+            "code": "0618231624423",
+            "label": "Chacal Erva-Mate Menta Limão Rosa",
+            "description": "500g de Erva-Mate Menta Limão Rosa",
+            "image_url": "https://i.imgur.com/YhWQ4Ku.png",
             "in_stock": false,
             "is_highlight": false
         }
@@ -2565,10 +2589,10 @@
             "code": "carvao-dcoco-caixa-1kg",
             "label": "Caixa 1kg Carvão Hexagonal D'Coco",
             "description": "Caixa com 1kg de Carvão D'coco Hexagonal",
-            "price": 4500,
+            "image_url": "https://i.imgur.com/QArp0rR.png",
+            "in_stock": false,
             "is_highlight": false,
-            "in_stock": true,
-            "image_url": "https://i.imgur.com/QArp0rR.png"
+            "price": 4500
         },
         {
             "code": "carvao-rainbow-1kg",
@@ -2587,6 +2611,33 @@
             "image_url": "https://i.imgur.com/wFM8C9j.png",
             "in_stock": false,
             "is_highlight": false
+        },
+        {
+            "code": "carvão-sky-1kg",
+            "label": "Caixa 1kg Carvão Hexagonal Skycoco",
+            "description": "Caixa 1kg Carvão Hexagonal Skycoco",
+            "image_url": "https://i.imgur.com/TxL0n4f.png",
+            "in_stock": true,
+            "is_highlight": false,
+            "price": 4200
+        },
+        {
+            "code": "carvão-sky-500g",
+            "label": "Caixa 500g Carvão Hexagonal Skycoco",
+            "description": "Caixa 500g Carvão Hexagonal Skycoco",
+            "image_url": "https://i.imgur.com/zTXy8Fd.png",
+            "in_stock": true,
+            "is_highlight": false,
+            "price": 2200
+        },
+        {
+            "code": "carvão-sky-250g",
+            "label": "Caixa 250g Carvão Hexagonal Skycoco",
+            "description": "Caixa 250g Carvão Hexagonal Skycoco",
+            "image_url": "https://i.imgur.com/L5kw1uF.png",
+            "in_stock": true,
+            "is_highlight": false,
+            "price": 1300
         }
     ],
     "Papel Alumínio": [
@@ -3073,10 +3124,10 @@
             "code": "tabaco-acrema",
             "label": "Tabaco Acrema Blend",
             "description": "1 unidade de Tabaco Acrema Blend de 20g. Um dos baquinhos mais procurados para blend com extrações. Tabaco virgínia, destalado manualmente, com corte extra fino e coloração clara.",
-            "price": 1800,
             "image_url": "https://i.imgur.com/n5cZwIM.jpeg",
-            "in_stock": false,
-            "is_highlight": false
+            "in_stock": true,
+            "is_highlight": false,
+            "price": 1800
         },
         {
             "code": "tabaco-hi-tobacco",
@@ -3194,6 +3245,33 @@
             "image_url": "https://i.imgur.com/p8A0I1X.png",
             "in_stock": true,
             "is_highlight": false
+        },
+        {
+            "code": "palheiro-paulistinha-menta",
+            "label": "Palheiro Paulistinha Menta 20 unidades",
+            "description": "Caixa com 20 unidades de palheiro Paulistinha sabor menta",
+            "image_url": "https://i.imgur.com/wswK9Nm.png",
+            "in_stock": true,
+            "is_highlight": false,
+            "price": 3500
+        },
+        {
+            "code": "charuto-chocolate-titan",
+            "label": "Charuto Chocolate Phillies Titan - UNIDADE",
+            "description": "Charuto Chocolate Phillies Titan - UNIDADE",
+            "image_url": "https://i.imgur.com/LMV4jM2.png",
+            "in_stock": true,
+            "is_highlight": false,
+            "price": 1900
+        },
+        {
+            "code": "charuto-tradicional-titan",
+            "label": "Charuto Tradicional Phillies Titan - UNIDADE",
+            "description": "Charuto Tradicional Phillies Titan - UNIDADE",
+            "image_url": "https://i.imgur.com/onX7ksv.png",
+            "in_stock": true,
+            "is_highlight": false,
+            "price": 1900
         }
     ],
     "Juices e Nic Salts": [
@@ -3390,10 +3468,10 @@
             "code": "TRY3004",
             "label": "Juice 60ml/3mg Trydents Grape 🍇",
             "description": "60ml de Juice Trydents para vaper (com 3mg de nicotina), sabor Uva 🍇",
-            "price": 5500,
+            "image_url": "https://i.imgur.com/g1zKxcM.png",
+            "in_stock": false,
             "is_highlight": false,
-            "in_stock": true,
-            "image_url": "https://i.imgur.com/g1zKxcM.png"
+            "price": 5500
         },
         {
             "code": "TRY3001",
@@ -3582,15 +3660,6 @@
             "price": 6000,
             "image_url": "https://i.imgur.com/nYg7U9p.png",
             "in_stock": false,
-            "is_highlight": false
-        },
-        {
-            "code": "palheiro-paulistinha-menta",
-            "label": "Palheiro Paulistinha Menta 20 unidades",
-            "description": "Caixa com 20 unidades de palheiro Paulistinha sabor menta",
-            "price": 3500,
-            "image_url": "https://i.imgur.com/wswK9Nm.png",
-            "in_stock": true,
             "is_highlight": false
         }
     ],
@@ -5624,10 +5693,10 @@
             "code": "fogareiro-pequeno-eletrico",
             "label": "Fogareiro Elétrico Pequeno 220w",
             "description": "Unidade de Fogareiro Pequeno para 220w",
-            "price": 4000,
+            "image_url": "https://i.imgur.com/YjQiRVe.png",
+            "in_stock": false,
             "is_highlight": false,
-            "in_stock": true,
-            "image_url": "https://i.imgur.com/YjQiRVe.png"
+            "price": 4000
         },
         {
             "code": "garfo-furador-mekahfork",
@@ -6407,10 +6476,10 @@
             "code": "rosh-simples-rosa",
             "label": "Rosh Simples Rosa",
             "description": "Rosh Simples Rosa",
-            "price": 2000,
             "image_url": "https://i.imgur.com/tPmPPdq.png",
-            "in_stock": true,
-            "is_highlight": false
+            "in_stock": false,
+            "is_highlight": false,
+            "price": 2000
         },
         {
             "code": "piteira-aluminio-azul-claro",
@@ -6679,19 +6748,19 @@
             "code": "trident-herbal",
             "label": "Trident Herbal X Senses 8g",
             "description": "Trident Herbal X Senses 8g (5 unidades)",
-            "price": 300,
             "image_url": "https://i.imgur.com/0QSIMfA.png",
-            "in_stock": true,
-            "is_highlight": false
+            "in_stock": false,
+            "is_highlight": false,
+            "price": 300
         },
         {
             "code": "bala-dot-azul",
             "label": "Bala Energética Dot Menta 3,2g",
             "description": "Bala Energética Dot Menta 3,2g",
-            "price": 300,
             "image_url": "https://i.imgur.com/GVZPr5u.png",
-            "in_stock": true,
-            "is_highlight": false
+            "in_stock": false,
+            "is_highlight": false,
+            "price": 300
         },
         {
             "code": "bala-dot-vermelha",
@@ -6706,10 +6775,10 @@
             "code": "trident-melancia",
             "label": "Trident Melancia 8g",
             "description": "Trident Melancia 8g (5 unidades)",
-            "price": 300,
             "image_url": "https://i.imgur.com/KdSvOEG.png",
-            "in_stock": true,
-            "is_highlight": false
+            "in_stock": false,
+            "is_highlight": false,
+            "price": 300
         },
         {
             "code": "halls-menta-verde",
