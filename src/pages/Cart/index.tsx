@@ -568,7 +568,9 @@ export default function Cart() {
                                         isInvalid={paymentMethod.method === ''}
                                     >
                                         <FormLabel>
-                                            Forma de pagamento (frete grátis apenas para dinheiro/PIX)
+                                            {freeDeliveryPrice ? 
+                                                `Forma de pagamento (frete grátis apenas para compras acima de R$ ${formatToCurrency(freeDeliveryPrice/100)} e pagas no dinheiro/PIX)` : 
+                                                `Forma de pagamento (frete grátis apenas para compras no dinheiro/PIX)`}
                                         </FormLabel>
                                         <Select
                                             value={paymentMethod.method}
