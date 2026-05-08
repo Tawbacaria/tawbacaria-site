@@ -157,10 +157,10 @@
             "code": "papelito-seda-slim-mini-size",
             "label": "Seda Papelito Slim MINI SIZE",
             "description": "Os papéis para enrolar, ou sedas, da Papelito têm marca d’água exclusiva e são de baixa gramatura, com queima lenta e goma arábica natural. O usuário tem a garantia de redução de danos , com menos fumaça e sem gosto residual. Todas as linhas vêm com o selo FSC, que comprova matéria prima de qualidade. Cada livreto contém 50 folhas. Dimensões: 78 x 36 mm",
-            "price": 400,
+            "image_url": "https://i.imgur.com/GtBBr1K.png",
+            "in_stock": false,
             "is_highlight": false,
-            "in_stock": true,
-            "image_url": "https://i.imgur.com/GtBBr1K.png"
+            "price": 400
         },
         {
             "code": "papelito-seda-brown-mini-size",
@@ -175,10 +175,10 @@
             "code": "papelito-seda-slim",
             "label": "Seda Papelito Slim",
             "description": "Os papéis para enrolar, ou sedas, da Papelito têm marca d’água exclusiva e são de baixa gramatura, com queima lenta e goma arábica natural. O usuário tem a garantia de redução de danos , com menos fumaça e sem gosto residual. Todas as linhas vêm com o selo FSC, que comprova matéria prima de qualidade. Cada livreto contém 36 folhas. Dimensões: 108 x 36 mm",
-            "price": 400,
+            "image_url": "https://i.imgur.com/naV84c5.png",
+            "in_stock": false,
             "is_highlight": false,
-            "in_stock": true,
-            "image_url": "https://i.imgur.com/naV84c5.png"
+            "price": 400
         },
         {
             "code": "papelito-seda-brown-slim",
@@ -202,10 +202,10 @@
             "code": "papelito-seda-hemp",
             "label": "Seda Papelito Hemp",
             "description": "Feita do que há de melhor. 100% cânhamo. Esse papel é uma verdadeira experiência. Feito a partir de fibras de cânhamo, tem baixa gramatura e possui uma cor única.) Cada livreto contém 36 folhas. Dimensões: 108 x 44 mm",
-            "price": 400,
+            "image_url": "https://i.imgur.com/cwwwMcj.png",
+            "in_stock": false,
             "is_highlight": false,
-            "in_stock": true,
-            "image_url": "https://i.imgur.com/cwwwMcj.png"
+            "price": 400
         },
         {
             "code": "papelito-seda-brown-bandeja-dropavel",
@@ -531,9 +531,9 @@
             "code": "7908479402079",
             "label": "Ziggy Abacaxi Tropical 🍍🌴",
             "description": "50g de Essência Ziggy para Narguile, sabor Abacaxi com Hortelã 🍍🌴",
-            "is_highlight": false,
-            "in_stock": false,
-            "image_url": "https://i.imgur.com/1c3faw2.jpg"
+            "image_url": "https://i.imgur.com/1c3faw2.jpg",
+            "in_stock": true,
+            "is_highlight": false
         },
         {
             "code": "7898965792060",
@@ -635,9 +635,9 @@
             "code": "7898927097684",
             "label": "Ziggy Hapocalyx Mint 🌿",
             "description": "50g de Essência Ziggy para Narguile, sabor Menta 🌿",
-            "is_highlight": false,
-            "in_stock": false,
-            "image_url": "https://i.imgur.com/fd4Qm1q.png"
+            "image_url": "https://i.imgur.com/fd4Qm1q.png",
+            "in_stock": true,
+            "is_highlight": false
         },
         {
             "code": "7898927097820",
@@ -749,10 +749,10 @@
             "code": "ziggy-corn-magic",
             "label": "Ziggy Corn Magic 🌽 ",
             "description": "50g de essência Ziggy, sabor milho-verde.",
-            "price": 1200,
             "image_url": "https://i.imgur.com/RaT3em3.png",
-            "in_stock": false,
-            "is_highlight": false
+            "in_stock": true,
+            "is_highlight": false,
+            "price": 1200
         },
         {
             "code": "ziggyjabuticaba",
@@ -778,6 +778,14 @@
             "description": "50g de Essência da marca Ziggy, sabor sorvete de limão",
             "price": 1200,
             "image_url": "https://i.imgur.com/DkrbHMG.png",
+            "in_stock": true,
+            "is_highlight": false
+        },
+        {
+            "code": "ziggymorangotropical",
+            "label": "Ziggy Morango Tropical",
+            "description": "50g de Essência Ziggy para Narguile, sabor morango tropical",
+            "image_url": "https://i.imgur.com/E5JAqig.png",
             "in_stock": true,
             "is_highlight": false
         }
@@ -1029,33 +1037,33 @@
             "code": "onix-essencia-high-mint",
             "label": "Onix High Mint 🥶",
             "description": "50g de Essência Onix Experience para Narguile, sabor Hortelã 🥶",
-            "is_highlight": false,
-            "in_stock": true,
-            "image_url": "https://i.imgur.com/FQbNqDs.jpeg"
+            "image_url": "https://i.imgur.com/FQbNqDs.jpeg",
+            "in_stock": false,
+            "is_highlight": false
         },
         {
             "code": "9MQCWTFCS",
             "label": "Onix High Cherry (Cereja) 🍒",
             "description": "50g de Essência Onix Experience para Narguile, sabor Cereja 🍒",
-            "is_highlight": false,
-            "in_stock": true,
-            "image_url": "https://i.imgur.com/fJqVa4y.png"
+            "image_url": "https://i.imgur.com/fJqVa4y.png",
+            "in_stock": false,
+            "is_highlight": false
         },
         {
             "code": "7898967524027",
             "label": "Onix Pear (Pêra) 🍐",
             "description": "50g de Essência Onix Experience para Narguile, sabor Pêra 🍐",
-            "is_highlight": false,
-            "in_stock": true,
-            "image_url": "https://i.imgur.com/F5zilYk.png"
+            "image_url": "https://i.imgur.com/F5zilYk.png",
+            "in_stock": false,
+            "is_highlight": false
         },
         {
             "code": "7898967424041",
             "label": "Onix Apple (Maçã Verde) 🍏",
             "description": "50g de Essência Onix Experience para Narguile, sabor Maçã Verde 🍏",
-            "is_highlight": false,
-            "in_stock": true,
-            "image_url": "https://i.imgur.com/G4nTb4R.png"
+            "image_url": "https://i.imgur.com/G4nTb4R.png",
+            "in_stock": false,
+            "is_highlight": false
         },
         {
             "code": "7898967524010",
@@ -1077,17 +1085,17 @@
             "code": "7898967524102",
             "label": "Onix Banana e Açaí Fusion 🍌",
             "description": "50g de Essência Onix Experience para Narguile, sabor Açaí com Banana 🍌",
-            "is_highlight": false,
-            "in_stock": true,
-            "image_url": "https://i.imgur.com/WinL6wV.png"
+            "image_url": "https://i.imgur.com/WinL6wV.png",
+            "in_stock": false,
+            "is_highlight": false
         },
         {
             "code": "4898967524065",
             "label": "Onix Grape (Uva) 🍇",
             "description": "50g de Essência Onix Experience para Narguile, sabor Uva 🍇",
-            "is_highlight": false,
-            "in_stock": true,
-            "image_url": "https://i.imgur.com/MVmXreg.png"
+            "image_url": "https://i.imgur.com/MVmXreg.png",
+            "in_stock": false,
+            "is_highlight": false
         },
         {
             "code": "7898967524126",
@@ -1101,9 +1109,9 @@
             "code": "7898967524096",
             "label": "Onix Mango 🥭",
             "description": "50g de Essência Onix Experience para Narguile, sabor Manga 🥭",
-            "is_highlight": false,
-            "in_stock": true,
-            "image_url": "https://i.imgur.com/9iKT9lR.png"
+            "image_url": "https://i.imgur.com/9iKT9lR.png",
+            "in_stock": false,
+            "is_highlight": false
         },
         {
             "code": "0618231942503",
@@ -1182,28 +1190,28 @@
             "code": "onix-essencia-ice-corn",
             "label": "Onix Ice Corn 🌽",
             "description": "50g de essência para narguilé Onix, sabor sorvete de milho verde.",
-            "price": 1000,
             "image_url": "https://i.imgur.com/wFLtMdU.jpeg",
-            "in_stock": true,
-            "is_highlight": false
+            "in_stock": false,
+            "is_highlight": false,
+            "price": 1000
         },
         {
             "code": "onix-banana",
             "label": "Onix Banana 🍌",
             "description": "50g de Essência Onix Experience para Narguile, sabor Banana 🍌",
-            "price": 1000,
             "image_url": "https://i.imgur.com/rEnfxbo.png",
-            "in_stock": true,
-            "is_highlight": false
+            "in_stock": false,
+            "is_highlight": false,
+            "price": 1000
         },
         {
             "code": "onixkiwi",
             "label": "Onix Kiwi Drops",
             "description": "50g de essência da Onix, sabor bala de kiwi",
-            "price": 1000,
             "image_url": "https://i.imgur.com/P2qmBL7.png",
-            "in_stock": false,
-            "is_highlight": false
+            "in_stock": true,
+            "is_highlight": false,
+            "price": 1000
         },
         {
             "code": "onixpurpledrops",
@@ -1250,23 +1258,6 @@
     ],
     "Essências Adalya": [
         {
-            "code": "8681511386771",
-            "label": "Adalya Love 66 💕",
-            "description": "50g de Essência Adalya para Narguile, sabor Melão, Melancia e Menta 🍈🍉🌿",
-            "price": 1800,
-            "is_highlight": false,
-            "in_stock": false,
-            "image_url": "https://i.imgur.com/PUqqyK8.png"
-        },
-        {
-            "code": "8681655727003",
-            "label": "Adalya Sheik Money 🤑",
-            "description": "50g de Essência Adalya para Narguile, sabor Mix de frutas com predominância de Abacaxi 🍍",
-            "is_highlight": false,
-            "in_stock": true,
-            "image_url": "https://i.imgur.com/MK4eDdW.png"
-        },
-        {
             "code": "8681511387303",
             "label": "Adalya Banana Milk Ice 🍌🥛🧊",
             "description": "50g de Essência Adalya para Narguile, sabor Creme de Banana com toque de Menta 🍌🌿",
@@ -1286,9 +1277,9 @@
             "code": "8681511387594",
             "label": "Adalya Blue Melon 🍈💙",
             "description": "50g de Essência Adalya para Narguile, sabor Blueberry (Mirtilo) com Melão 🫐🍈",
-            "is_highlight": false,
-            "in_stock": false,
-            "image_url": "https://i.imgur.com/5AEsDpN.png"
+            "image_url": "https://i.imgur.com/5AEsDpN.png",
+            "in_stock": true,
+            "is_highlight": false
         },
         {
             "code": "8681655725245",
@@ -1342,33 +1333,33 @@
             "code": "8681655728369",
             "label": "Adalya Mario Brothers",
             "description": "50g de Essência Adalya para Narguile, sabor Maracujá, Framboesa e Limão 🍋",
-            "is_highlight": false,
-            "in_stock": true,
-            "image_url": "https://i.imgur.com/jB7Wdw6.png"
+            "image_url": "https://i.imgur.com/jB7Wdw6.png",
+            "in_stock": false,
+            "is_highlight": false
         },
         {
             "code": "8681655728406",
             "label": "Adalya Pica-Pau",
             "description": "50g de Essência Adalya para Narguile, sabor Melão, Limão e Pitaya 🍈🍋🐉",
-            "is_highlight": false,
-            "in_stock": true,
-            "image_url": "https://i.imgur.com/h4MzvZT.png"
+            "image_url": "https://i.imgur.com/h4MzvZT.png",
+            "in_stock": false,
+            "is_highlight": false
         },
         {
             "code": "8681655728383",
             "label": "Adalya Máskara",
             "description": "50g de Essência Adalya para Narguile, sabor Manga, Abacaxi e Pitaya 🍍🥭🐉",
-            "is_highlight": false,
-            "in_stock": true,
-            "image_url": "https://i.imgur.com/amBlLP7.png"
+            "image_url": "https://i.imgur.com/amBlLP7.png",
+            "in_stock": false,
+            "is_highlight": false
         },
         {
             "code": "8681655728420",
             "label": "Adalya Popeye",
             "description": "50g de Essência Adalya para Narguile, sabor Maracujá, Melancia e Menta 🍉🌿",
-            "is_highlight": false,
-            "in_stock": true,
-            "image_url": "https://i.imgur.com/1PEmTj9.png"
+            "image_url": "https://i.imgur.com/1PEmTj9.png",
+            "in_stock": false,
+            "is_highlight": false
         },
         {
             "code": "8681655728307",
@@ -1382,9 +1373,9 @@
             "code": "8681655728345",
             "label": "Adalya Majin Boo",
             "description": "50g de Essência Adalya para Narguile, sabor Tutti-Frutti, Cereja e Menta 🍒🌿",
-            "is_highlight": false,
-            "in_stock": true,
-            "image_url": "https://i.imgur.com/iYsNxBA.png"
+            "image_url": "https://i.imgur.com/iYsNxBA.png",
+            "in_stock": false,
+            "is_highlight": false
         },
         {
             "code": "8681655728024",
@@ -1406,9 +1397,9 @@
             "code": "8681511389161",
             "label": "Adalya Swiss Bonbon 🥶",
             "description": "50g de Essência Adalya para Narguile, sabor Chiclete com Refrescância",
-            "is_highlight": false,
-            "in_stock": false,
-            "image_url": "https://i.imgur.com/JZFsSrW.png"
+            "image_url": "https://i.imgur.com/JZFsSrW.png",
+            "in_stock": true,
+            "is_highlight": false
         },
         {
             "code": "8681511368303",
@@ -1425,6 +1416,23 @@
             "is_highlight": false,
             "in_stock": true,
             "image_url": "https://i.imgur.com/DwOrdRa.png"
+        },
+        {
+            "code": "8681511386771",
+            "label": "Adalya Love 66 💕",
+            "description": "50g de Essência Adalya para Narguile, sabor Melão, Melancia e Menta 🍈🍉🌿",
+            "image_url": "https://i.imgur.com/PUqqyK8.png",
+            "in_stock": true,
+            "is_highlight": false,
+            "price": 1800
+        },
+        {
+            "code": "8681655727003",
+            "label": "Adalya Sheik Money 🤑",
+            "description": "50g de Essência Adalya para Narguile, sabor Mix de frutas com predominância de Abacaxi 🍍",
+            "image_url": "https://i.imgur.com/MK4eDdW.png",
+            "in_stock": false,
+            "is_highlight": false
         }
     ],
     "Essências Magic": [
@@ -1604,9 +1612,9 @@
             "code": "nay-limao-goiaba",
             "label": "Nay Limão Goiaba",
             "description": "50g de Essência Nay, delicie-se com a combinação vibrante do sabor cítrico do limão com o toque suave e doce da goiaba. Uma experiência de sabor totalmente única!",
-            "is_highlight": false,
-            "in_stock": true,
-            "image_url": "https://i.imgur.com/YIqobHu.png"
+            "image_url": "https://i.imgur.com/YIqobHu.png",
+            "in_stock": false,
+            "is_highlight": false
         },
         {
             "code": "nay-blueberry-grape",
@@ -1636,9 +1644,9 @@
             "code": "78417809",
             "label": "Nay Passion Blend (Maracujá)",
             "description": "50g de Essência Nay, sabor Maracujá",
-            "is_highlight": false,
+            "image_url": "https://i.imgur.com/aMOEsX0.png",
             "in_stock": true,
-            "image_url": "https://i.imgur.com/aMOEsX0.png"
+            "is_highlight": false
         },
         {
             "code": "78420670",
@@ -1896,14 +1904,6 @@
     ],
     "Essências Blue Horse": [
         {
-            "code": "8681654700136",
-            "label": "Blue Horse Jamaica (Bob Marley)",
-            "description": "50g de Essência Blue Horse, Bob Marley (No Woman No Cry), sabor Morango com leve toque da Pêra 🍓🍐",
-            "is_highlight": false,
-            "in_stock": true,
-            "image_url": "https://i.imgur.com/g09iBth.png"
-        },
-        {
             "code": "8601655700295",
             "label": "Blue Horse Sputnik",
             "description": "50g de Essência Blue Horse, sabor Toranja com Maracujá",
@@ -1925,6 +1925,14 @@
             "description": "Teste",
             "price": 100000,
             "image_url": "https://i.imgur.com/MvHWciR.png",
+            "in_stock": false,
+            "is_highlight": false
+        },
+        {
+            "code": "8681654700136",
+            "label": "Blue Horse Jamaica (Bob Marley)",
+            "description": "50g de Essência Blue Horse, Bob Marley (No Woman No Cry), sabor Morango com leve toque da Pêra 🍓🍐",
+            "image_url": "https://i.imgur.com/g09iBth.png",
             "in_stock": false,
             "is_highlight": false
         }
@@ -2367,16 +2375,16 @@
             "code": "chacal-erva-limao",
             "label": "Chacal Erva-Mate Limão",
             "description": "500g de Erva-Mate para Tereré, sabor de folhas do mate com limão",
-            "is_highlight": false,
-            "in_stock": true,
-            "image_url": "https://i.imgur.com/TCQWUSR.png"
+            "image_url": "https://i.imgur.com/TCQWUSR.png",
+            "in_stock": false,
+            "is_highlight": false
         },
         {
             "code": "0619205423567",
             "label": "Chacal Erva-Mate Hortelã Ice",
             "description": "500g de Erva-Mate para Tereré, sabor de folhas do mate com hortelã refrescante",
             "image_url": "https://i.imgur.com/U9pdeJf.png",
-            "in_stock": true,
+            "in_stock": false,
             "is_highlight": false
         },
         {
@@ -2399,9 +2407,9 @@
             "code": "0602883951167",
             "label": "Chacal Erva-Mate Pura Folha",
             "description": "500g de Erva-Mate para Tereré, sabor autêntico das folhas do mate",
-            "is_highlight": false,
-            "in_stock": true,
-            "image_url": "https://i.imgur.com/n7P7aOk.png"
+            "image_url": "https://i.imgur.com/n7P7aOk.png",
+            "in_stock": false,
+            "is_highlight": false
         },
         {
             "code": "0602883951075",
@@ -2544,10 +2552,10 @@
             "code": "carvao-chacal-caixa-1kg",
             "label": "Caixa 1kg Carvão Hexagonal Chacal",
             "description": "Caixa com 1kg de Carvão Chacal Hexagonal",
-            "price": 5500,
+            "image_url": "https://i.imgur.com/s3Em5lU.png",
+            "in_stock": false,
             "is_highlight": false,
-            "in_stock": true,
-            "image_url": "https://i.imgur.com/s3Em5lU.png"
+            "price": 5500
         },
         {
             "code": "carvao-chacal-caixa-250g",
@@ -2638,6 +2646,24 @@
             "in_stock": true,
             "is_highlight": false,
             "price": 1300
+        },
+        {
+            "code": "caixa1kgunicoco",
+            "label": "Caixa 1kg Carvão Hexagonal Unicoco",
+            "description": "Caixa 1kg Carvão Hexagonal Unicoco",
+            "image_url": "https://i.imgur.com/bWQ6NYU.png",
+            "in_stock": true,
+            "is_highlight": false,
+            "price": 4500
+        },
+        {
+            "code": "caixa1kgbro",
+            "label": "Caixa 1kg Carvão Hexagonal Bro",
+            "description": "Caixa 1kg Carvão Hexagonal Bro",
+            "image_url": "https://i.imgur.com/8QsBLVZ.png",
+            "in_stock": true,
+            "is_highlight": false,
+            "price": 3800
         }
     ],
     "Papel Alumínio": [
@@ -2715,15 +2741,6 @@
         }
     ],
     "Fumos e Isqueiros": [
-        {
-            "code": "isqueiro-maçarico-prof",
-            "label": "(CONFERIR CORES DISPONÍVEIS) Isqueiro Maçarico Recarragável Prof",
-            "description": "CONFERIR CORES DISPONÍVEIS - 1 Unidade de Isqueiro Maçarico Recarragável Prof, conferir modelos disponíveis",
-            "price": 1000,
-            "is_highlight": false,
-            "in_stock": false,
-            "image_url": "https://i.imgur.com/T7jEOYU.png"
-        },
         {
             "code": "isqueiro-macarico-firestar2",
             "label": "(CONFERIR CORES DISPONÍVEIS) Isqueiro Maçarico Firestar 2 chamas",
@@ -2881,10 +2898,10 @@
             "code": "isqueiro-clipper-colors-neons",
             "label": "Isqueiro Clipper Color Neons",
             "description": "Unidade de Isqueiro Clipper, da coleção Color Neons. Escolher uma das cores da foto",
-            "price": 800,
+            "image_url": "https://i.imgur.com/7ZRIG5L.png",
+            "in_stock": false,
             "is_highlight": false,
-            "in_stock": true,
-            "image_url": "https://i.imgur.com/7ZRIG5L.png"
+            "price": 800
         },
         {
             "code": "isqueiro-clipper-caveira-mexicana",
@@ -2935,10 +2952,10 @@
             "code": "7898994462040",
             "label": "Tabaco/Fumo Sasso Hash 25g",
             "description": "Tabaco com Blend desenvolvido aos apreciadores de um belo tabaco. Folha e classes especialmente selecionadas de médio impacto.",
-            "price": 1800,
-            "is_highlight": false,
+            "image_url": "https://i.imgur.com/qE1IiiS.png",
             "in_stock": true,
-            "image_url": "https://i.imgur.com/qE1IiiS.png"
+            "is_highlight": false,
+            "price": 2000
         },
         {
             "code": "7898956381105",
@@ -3079,10 +3096,10 @@
             "code": "kumbaya-tonabe",
             "label": "Kumbaya Tonabê - Mix de ervas",
             "description": "Kumbaya Tonabê (Tobemzen) Melt 15gr\r\nMix de ervas sabor:\r\nHIBÍSCO\r\nMENTA\r\nMARACUJÁ\r\nALECRIM\r\nCAMOMILA",
-            "price": 1500,
             "image_url": "https://i.imgur.com/IK0VODj.png",
-            "in_stock": true,
-            "is_highlight": false
+            "in_stock": false,
+            "is_highlight": false,
+            "price": 1500
         },
         {
             "code": "charuto-talvis-caixa",
@@ -3106,10 +3123,10 @@
             "code": "kumbaya-tonabe-trip",
             "label": "Kumbaya Tonabê Trip",
             "description": "Unidade de Kumbaya Tonabê (Tobemzen) Trip 15gr, mix de ervas sabor:\r\nERVA CIDREIRA, ALECRIM DO NORTE, CAMOMILA, SALVIA e MENTA.",
-            "price": 1500,
             "image_url": "https://i.imgur.com/hRjBLCu.png",
-            "in_stock": false,
-            "is_highlight": false
+            "in_stock": true,
+            "is_highlight": false,
+            "price": 1500
         },
         {
             "code": "isqueiro-maçarico-prof-pepper",
@@ -3196,10 +3213,10 @@
             "code": "clipper-palm-beach",
             "label": "Isqueiro Clipper - Palm Beach",
             "description": "1 unidade de isqueiro clipper recarregável da coleção Palm Beach",
-            "price": 800,
             "image_url": "https://i.imgur.com/xpcd9LY.jpeg",
-            "in_stock": true,
-            "is_highlight": false
+            "in_stock": false,
+            "is_highlight": false,
+            "price": 800
         },
         {
             "code": "tabaco-dublin-pink",
@@ -3232,10 +3249,10 @@
             "code": "kumbaya-vibe",
             "label": "Kumbaya Vibe 15g",
             "description": "O Kumbaya é uma combinação de ervas, flores e raízes, completamente natural e livre de nicotina, tornando-se uma opção menos prejudicial à saúde.\r\nSABOR: Salvia, camomila, calendula, erva cidreira e erva doce!",
-            "price": 1500,
             "image_url": "https://i.imgur.com/nbUjRJ9.png",
-            "in_stock": true,
-            "is_highlight": false
+            "in_stock": false,
+            "is_highlight": false,
+            "price": 1500
         },
         {
             "code": "cigarro-san-marino",
@@ -3272,6 +3289,60 @@
             "in_stock": true,
             "is_highlight": false,
             "price": 1900
+        },
+        {
+            "code": "isqueiro-maçarico-prof",
+            "label": "(CONFERIR CORES DISPONÍVEIS) Isqueiro Maçarico Recarragável Prof",
+            "description": "CONFERIR CORES DISPONÍVEIS - 1 Unidade de Isqueiro Maçarico Recarragável Prof, conferir modelos disponíveis",
+            "image_url": "https://i.imgur.com/ntYNnjj.png",
+            "in_stock": true,
+            "is_highlight": false,
+            "price": 1500
+        },
+        {
+            "code": "tabacoveiopimentarosin",
+            "label": "Tabaco/Fumo Véio Pimenta Virginia 25g + 1 Piteira de Vidro",
+            "description": "Tabaco/Fumo para Cigarro Véio Pimenta Virginia Gold Rosin - Pacote 25g - CONTÉM 1 PITEIRA DE VIDRO DE BRINDE!",
+            "image_url": "https://i.imgur.com/VCGB9R9.png",
+            "in_stock": true,
+            "is_highlight": false,
+            "price": 2000
+        },
+        {
+            "code": "tabacodoragrape",
+            "label": "Tabaco/Fumo Dora Uva 20g + 1 Seda Mini Zomo Branca",
+            "description": "Tabaco/Fumo Dora Uva 20g + 1 Seda Mini Zomo Branca",
+            "image_url": "https://i.imgur.com/3gE6FRZ.png",
+            "in_stock": true,
+            "is_highlight": false,
+            "price": 1800
+        },
+        {
+            "code": "tabacodoradoublemint",
+            "label": "Tabaco/Fumo Dora Double Mint 20g + 1 Seda Mini Zomo Branca",
+            "description": "Tabaco/Fumo Dora Sabor Menta 20g + 1 Seda Mini Zomo Branca",
+            "image_url": "https://i.imgur.com/R9mhs8G.png",
+            "in_stock": true,
+            "is_highlight": false,
+            "price": 1800
+        },
+        {
+            "code": "tabacodoraice",
+            "label": "Tabaco/Fumo Dora Ice 20g + 1 Seda Mini Zomo Branca",
+            "description": "Tabaco/Fumo Dora Sabor Ice 20g + 1 Seda Mini Zomo Branca",
+            "image_url": "https://i.imgur.com/bh4LOCj.png",
+            "in_stock": true,
+            "is_highlight": false,
+            "price": 1800
+        },
+        {
+            "code": "tabacodoracoffe",
+            "label": "Tabaco/Fumo Dora Café 20g + 1 Seda Mini Zomo Branca",
+            "description": "Tabaco/Fumo Dora Sabor Café 20g + 1 Seda Mini Zomo Branca",
+            "image_url": "https://i.imgur.com/l4NB3Uz.png",
+            "in_stock": true,
+            "is_highlight": false,
+            "price": 1800
         }
     ],
     "Juices e Nic Salts": [
@@ -3342,10 +3413,10 @@
             "code": "JCCRZ017",
             "label": "Juice 30ml/3mg Crazy Clouds Uva com Creme 🍇🍦",
             "description": "30ml de Juice Crazy Clouds para vaper (com 3mg de nicotina), sabor Uva com Creme 🍇🍦",
-            "price": 3500,
+            "image_url": "https://i.imgur.com/u6L7l0U.png",
+            "in_stock": false,
             "is_highlight": false,
-            "in_stock": true,
-            "image_url": "https://i.imgur.com/u6L7l0U.png"
+            "price": 3500
         },
         {
             "code": "JCCRZ016",
@@ -3495,10 +3566,10 @@
             "code": "TRY3002",
             "label": "Juice 60ml/3mg Trydents Cherry 🍒",
             "description": "60ml de Juice Trydents para vaper (com 3mg de nicotina), sabor Cereja 🍒",
-            "price": 5500,
+            "image_url": "https://i.imgur.com/6sfduFY.png",
+            "in_stock": false,
             "is_highlight": false,
-            "in_stock": true,
-            "image_url": "https://i.imgur.com/6sfduFY.png"
+            "price": 5500
         },
         {
             "code": "TRY3009",
@@ -3749,19 +3820,19 @@
             "code": "tesoura-dobravel",
             "label": "(CONFERIR MODELOS DISPONÍVEIS) Tesoura Dobrável",
             "description": "CONFERIR MODELOS DISPONÍVEIS - Unidade de Tesoura Dobrável, escolher entre as cores disponíveis",
-            "price": 2000,
+            "image_url": "https://i.imgur.com/cmXM8eU.png",
+            "in_stock": false,
             "is_highlight": false,
-            "in_stock": true,
-            "image_url": "https://i.imgur.com/cmXM8eU.png"
+            "price": 2000
         },
         {
             "code": "case-tonabe",
             "label": "(CONFERIR MODELOS DISPONÍVEIS) Case To na Bê",
             "description": "CONFERIR MODELOS DISPONÍVEIS - Case para transportar seu kit para todos os rolês, viagens, festas, isso de maneira discreta, pois a case é slim e portátil. - Dimensões: 15x 9,5cm",
-            "price": 4500,
+            "image_url": "https://i.imgur.com/tdVXzFO.png",
+            "in_stock": false,
             "is_highlight": false,
-            "in_stock": true,
-            "image_url": "https://i.imgur.com/tdVXzFO.png"
+            "price": 4500
         },
         {
             "code": "78420553",
@@ -3889,12 +3960,12 @@
         },
         {
             "code": "cuia-silicone-naboa",
-            "label": "Cuia de Silicone Na Boa",
-            "description": "Unidade de Cuia de Silicone da Na Boa, disponível em várias cores",
-            "price": 2200,
-            "is_highlight": false,
+            "label": "Cuia de Silicone - CONFERIR MODELOS DISPONÍVEIS",
+            "description": "Unidade de Cuia de Silicone, disponível em várias cores",
+            "image_url": "https://i.imgur.com/1C9ZH47.png",
             "in_stock": true,
-            "image_url": "https://i.imgur.com/1C9ZH47.png"
+            "is_highlight": false,
+            "price": 2200
         },
         {
             "code": "cuia-silicone-monkey-kush",
@@ -4386,10 +4457,10 @@
             "code": "7898960207057",
             "label": "King Blunt Melancia",
             "description": "Unidade de pacote com 5 folhas para blunt com um aroma de melancia, tamanho 110mm x 44mm",
-            "price": 1200,
+            "image_url": "https://i.imgur.com/RbL9qsw.png",
+            "in_stock": false,
             "is_highlight": false,
-            "in_stock": true,
-            "image_url": "https://i.imgur.com/RbL9qsw.png"
+            "price": 1200
         },
         {
             "code": "porta-cigarro-rok",
@@ -4503,10 +4574,10 @@
             "code": "bong-acrilico-modelos",
             "label": "(CONFERIR MODELOS DISPONÍVEIS) Bong de Acrílico 15cm",
             "description": "CONFERIR MODELOS DISPONÍVEIS - 1 unidade de Bong de Acrílico, Dimensões: 15 cm, Material: Acrílico",
-            "price": 3500,
+            "image_url": "https://i.imgur.com/y9qUaWb.png",
+            "in_stock": false,
             "is_highlight": false,
-            "in_stock": true,
-            "image_url": "https://i.imgur.com/y9qUaWb.png"
+            "price": 3500
         },
         {
             "code": "seda-smoking-king",
@@ -4719,10 +4790,10 @@
             "code": "seda-organica-live-your-life",
             "label": "Seda King Size Orgânica Branca",
             "description": "Produzida com folhas orgânicas premium ultrafinas, essa seda garante uma queima suave e uniforme, realçando o sabor natural do conteúdo. Seu formato King Size é ideal para quem busca praticidade sem abrir mão da qualidade. Contém 33 folhas.",
-            "price": 200,
             "image_url": "https://i.imgur.com/nMI0zEy.png",
-            "in_stock": true,
-            "is_highlight": false
+            "in_stock": false,
+            "is_highlight": false,
+            "price": 200
         },
         {
             "code": "piteira-tonabe-premium-extra-larga",
@@ -4737,10 +4808,10 @@
             "code": "slick-tokahauu-nuvem",
             "label": "Slick TokaHauu 22ml Nuvem",
             "description": "Slick de Silicone TokaHauu 22ml Nuvem. Contém 4 repartições. (CONFERIR MODELOS DISPONÍVEIS)",
-            "price": 3500,
             "image_url": "https://i.imgur.com/OGVq0Qt.png",
-            "in_stock": true,
-            "is_highlight": false
+            "in_stock": false,
+            "is_highlight": false,
+            "price": 3500
         },
         {
             "code": "cinzeiro-resina-tonabe",
@@ -4800,10 +4871,10 @@
             "code": "tesoura-bud-cutter",
             "label": "Tesoura Bud Cutter - Yellow Finger (CONFERIR CORES DISPONÍVEIS)",
             "description": "Tesoura multiuso da consagrada Yellow Finger. Possui lâminas de aço com corte super afiado e molas responsivas que agilizam e facilitam os processos de trituração, trimação e poda. Produto feito de metal esmaltado colorido de alta qualidade com acabamento impecável que não descasca. E, por fim, não perdendo o estilo, a lâmina e o corpo possuem o marcante logo e texto da Yellow Finger.\r\n\r\nDimensões: 11 x 2,5 x 1,1cm.",
-            "price": 1800,
             "image_url": "https://i.imgur.com/dQ9Stcp.png",
-            "in_stock": false,
-            "is_highlight": false
+            "in_stock": true,
+            "is_highlight": false,
+            "price": 1800
         },
         {
             "code": "slick-sadhu-11",
@@ -4836,10 +4907,10 @@
             "code": "seda-de-vidro-eai-bateu-8",
             "label": "Seda de Vidro 8,5cm",
             "description": "DESCRIÇÃO\r\nSeda de Vidro da marca Eai bateu? \r\nESPECIFICAÇÕES\r\nTamanho: 8,5cm",
-            "price": 2000,
             "image_url": "https://i.imgur.com/EbwLvou.png",
-            "in_stock": true,
-            "is_highlight": false
+            "in_stock": false,
+            "is_highlight": false,
+            "price": 2000
         },
         {
             "code": "dichavador-metal-yin-yang",
@@ -4863,10 +4934,10 @@
             "code": "piteiratonabevidro",
             "label": "Piteira de Vidro Tonabê 5mm",
             "description": "Dimensões 0,80 × 0,80 × 3,00 cm",
-            "price": 1500,
             "image_url": "https://i.imgur.com/0GKqeCs.png",
-            "in_stock": true,
-            "is_highlight": false
+            "in_stock": false,
+            "is_highlight": false,
+            "price": 1500
         },
         {
             "code": "dichavadorbemboladogrande",
@@ -4930,6 +5001,33 @@
             "image_url": "https://i.imgur.com/vgJ4Jtp.png",
             "in_stock": true,
             "is_highlight": false
+        },
+        {
+            "code": "piteiradevidrobolinha",
+            "label": "Piteira de Vidro Bocal Bolinha ToNaBê",
+            "description": "Com 5mm de espessura e 7,5cm de comprimento, essa piteira proporciona uma experiência suave, reduzindo a temperatura da fumaça e evitando resíduos indesejados. Ideal para quem busca um consumo mais limpo, com mais sabor e menos impurezas.",
+            "image_url": "https://i.imgur.com/RtPkK6h.png",
+            "in_stock": true,
+            "is_highlight": false,
+            "price": 2500
+        },
+        {
+            "code": "piteirabemboladolarge",
+            "label": "Piteira Bem Bolado Large Branca",
+            "description": "Livreto com 32 piteiras\r\nTamanho 6 cm x 2,5 cm\r\nPapel branco\r\nCom marcação de dobra e picote",
+            "image_url": "https://i.imgur.com/IxYneIU.png",
+            "in_stock": true,
+            "is_highlight": false,
+            "price": 500
+        },
+        {
+            "code": "piteiratonabemegalonga",
+            "label": "Piteira ToNaBê Mega Longa",
+            "description": "- Cada bloco contém 35 piteiras\r\n- Dimensões: 8 x 5,5 cm \r\n- Modelo: Mega Longa\r\n- Composição: Papel Vergê",
+            "image_url": "https://i.imgur.com/ZLKxOq2.png",
+            "in_stock": true,
+            "is_highlight": false,
+            "price": 800
         }
     ],
     "Acessórios": [
@@ -6595,10 +6693,10 @@
             "code": "78936478",
             "label": "Fanta Mini Pet 200ml (GELADA)",
             "description": "BEBIDA GELADA - Refrigerante Fanta de Laranja em Garrafa Mini Pet de 200ml",
-            "price": 300,
+            "image_url": "https://i.imgur.com/pRVLj7Q.png",
+            "in_stock": false,
             "is_highlight": false,
-            "in_stock": true,
-            "image_url": "https://i.imgur.com/pRVLj7Q.png"
+            "price": 300
         },
         {
             "code": "suco-shefa-laranja",
@@ -6640,10 +6738,10 @@
             "code": "energetico-tnt",
             "label": "Energético TNT Original 473ml (GELADO)",
             "description": "Energético TNT Original 473ml (GELADO)",
-            "price": 1200,
             "image_url": "https://i.imgur.com/dP2FPw3.png",
-            "in_stock": true,
-            "is_highlight": false
+            "in_stock": false,
+            "is_highlight": false,
+            "price": 1200
         },
         {
             "code": "coca-2litros",
@@ -6685,10 +6783,10 @@
             "code": "lays-original",
             "label": "Lays Original 35g",
             "description": "Batata Lisa Frita 35g",
-            "price": 500,
             "image_url": "https://i.imgur.com/WIeLs38.png",
-            "in_stock": false,
-            "is_highlight": false
+            "in_stock": true,
+            "is_highlight": false,
+            "price": 500
         },
         {
             "code": "doritos-original",
@@ -6739,10 +6837,10 @@
             "code": "fandangos-queijo",
             "label": "Fandangos Queijo 37g",
             "description": "Fandangos Queijo 37g",
-            "price": 400,
             "image_url": "https://i.imgur.com/2A9KPPj.png",
-            "in_stock": false,
-            "is_highlight": false
+            "in_stock": true,
+            "is_highlight": false,
+            "price": 400
         },
         {
             "code": "trident-herbal",
@@ -6766,10 +6864,10 @@
             "code": "bala-dot-vermelha",
             "label": "Bala Energética Dot Frutas Vermelhas 3,2g",
             "description": "Bala Energética Dot Frutas Vermelhas 3,2g",
-            "price": 300,
             "image_url": "https://i.imgur.com/jXBDgxv.png",
-            "in_stock": true,
-            "is_highlight": false
+            "in_stock": false,
+            "is_highlight": false,
+            "price": 300
         },
         {
             "code": "trident-melancia",
@@ -6811,10 +6909,10 @@
             "code": "bombom-ouro-branco",
             "label": "Bombom Chocolate Ouro Branco 20g",
             "description": "1 unidade de Bombom Chocolate Ouro Branco 20g",
-            "price": 300,
             "image_url": "https://i.imgur.com/91p69dl.png",
-            "in_stock": true,
-            "is_highlight": false
+            "in_stock": false,
+            "is_highlight": false,
+            "price": 300
         },
         {
             "code": "energetico-monster",
@@ -6847,10 +6945,10 @@
             "code": "cheetos-bola",
             "label": "Cheetos Bola Queijo Suiço  37g",
             "description": "Cheetos Bola Queijo Suiço 37g",
-            "price": 400,
             "image_url": "https://i.imgur.com/ujp2fHE.png",
-            "in_stock": true,
-            "is_highlight": false
+            "in_stock": false,
+            "is_highlight": false,
+            "price": 400
         },
         {
             "code": "baconzitos",
