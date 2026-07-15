@@ -7,7 +7,7 @@
     "Centro": {
         "freeAbove": 4500,
         "label": "Centro",
-        "price": 700
+        "price": 800
     },
     "Chácara Helvécio": {
         "freeAbove": 4500,
@@ -22,7 +22,7 @@
     "Fepasa": {
         "freeAbove": 4500,
         "label": "Fepasa",
-        "price": 700
+        "price": 800
     },
     "Friboi": {
         "freeAbove": null,
@@ -47,17 +47,17 @@
     "Jardim Campo Grande": {
         "freeAbove": 4500,
         "label": "Jardim Campo Grande",
-        "price": 700
+        "price": 800
     },
     "Jardim Centenario": {
         "freeAbove": 4500,
         "label": "Jardim Centenário",
-        "price": 700
+        "price": 800
     },
     "Jardim Primavera": {
         "freeAbove": 4500,
         "label": "Jardim Primavera",
-        "price": 700
+        "price": 800
     },
     "Jardim Real 1": {
         "freeAbove": 4500,
@@ -92,7 +92,7 @@
     "Novo Lar": {
         "freeAbove": 4500,
         "label": "Novo Lar",
-        "price": 700
+        "price": 800
     },
     "Orla": {
         "freeAbove": null,
@@ -117,7 +117,7 @@
     "Santa Rosa": {
         "freeAbove": 4500,
         "label": "Santa Rosa",
-        "price": 700
+        "price": 800
     },
     "Sesi": {
         "freeAbove": null,
@@ -132,12 +132,12 @@
     "Vila Bela Vista": {
         "freeAbove": 4500,
         "label": "Vila Bela Vista",
-        "price": 700
+        "price": 800
     },
     "Vila Boa Vista": {
         "freeAbove": 4500,
         "label": "Vila Boa Vista",
-        "price": 700
+        "price": 800
     },
     "Vila Bordon": {
         "freeAbove": 4500,
@@ -147,52 +147,52 @@
     "Vila Continental": {
         "freeAbove": 4500,
         "label": "Vila Continental",
-        "price": 700
+        "price": 800
     },
     "Vila Cruzeiro": {
         "freeAbove": 4500,
         "label": "Vila Cruzeiro",
-        "price": 700
+        "price": 800
     },
     "Vila Esperança": {
         "freeAbove": 4500,
         "label": "Vila Esperança",
-        "price": 700
+        "price": 800
     },
     "Vila Geronimo": {
         "freeAbove": 4500,
         "label": "Vila Gerônimo",
-        "price": 700
+        "price": 800
     },
     "Vila Industrial": {
         "freeAbove": 4500,
         "label": "Vila Industrial",
-        "price": 700
+        "price": 800
     },
     "Vila Maria": {
         "freeAbove": 4500,
         "label": "Vila Maria",
-        "price": 700
+        "price": 800
     },
     "Vila Martins": {
         "freeAbove": 4500,
         "label": "Vila Martins",
-        "price": 700
+        "price": 800
     },
     "Vila Monte Castelo": {
         "freeAbove": 4500,
         "label": "Vila Monte Castelo",
-        "price": 700
+        "price": 800
     },
     "Vila Natal": {
         "freeAbove": 4500,
         "label": "Vila Natal",
-        "price": 700
+        "price": 800
     },
     "Vila Palmira": {
         "freeAbove": 4500,
         "label": "Vila Palmira",
-        "price": 700
+        "price": 800
     },
     "Vila Progresso": {
         "freeAbove": null,
@@ -202,7 +202,7 @@
     "Vila So Brasil": {
         "freeAbove": 4500,
         "label": "Vila Só Brasil",
-        "price": 700
+        "price": 800
     },
     "Village": {
         "freeAbove": null,
