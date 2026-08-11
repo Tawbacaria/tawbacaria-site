@@ -175,10 +175,10 @@
             "code": "papelito-seda-slim",
             "label": "Seda Papelito Slim",
             "description": "Os papéis para enrolar, ou sedas, da Papelito têm marca d’água exclusiva e são de baixa gramatura, com queima lenta e goma arábica natural. O usuário tem a garantia de redução de danos , com menos fumaça e sem gosto residual. Todas as linhas vêm com o selo FSC, que comprova matéria prima de qualidade. Cada livreto contém 36 folhas. Dimensões: 108 x 36 mm",
-            "image_url": "https://i.imgur.com/naV84c5.png",
-            "in_stock": false,
+            "image_url": "https://i.imgur.com/QM1Khco.png",
+            "in_stock": true,
             "is_highlight": false,
-            "price": 400
+            "price": 500
         },
         {
             "code": "papelito-seda-brown-slim",
@@ -211,10 +211,10 @@
             "code": "papelito-seda-brown-bandeja-dropavel",
             "label": "Seda com Bandeja Dobrável do Papelito Brown",
             "description": "Seda com Bandeja Dobrável do Papelito Brown, papel branco, ultrafino, contém 36 piteiras e 36 papéis",
-            "price": 1000,
+            "image_url": "https://i.imgur.com/CEheX2W.png",
+            "in_stock": false,
             "is_highlight": false,
-            "in_stock": true,
-            "image_url": "https://i.imgur.com/CEheX2W.png"
+            "price": 1000
         },
         {
             "code": "papelito-tubelitos",
@@ -355,10 +355,10 @@
             "code": "seda-papelito-longa-tradicional",
             "label": "Seda Papelito Longa Tradicional",
             "description": "1 unidade de caixa de Seda Papelito Longa Tradicional, suas dimensões são 130mm x 43mm, contendo 36 folhas de papel branco.",
-            "price": 500,
             "image_url": "https://i.imgur.com/lBXgJHG.png",
             "in_stock": true,
-            "is_highlight": false
+            "is_highlight": false,
+            "price": 600
         },
         {
             "code": "seda-papelito-longa-brown",
