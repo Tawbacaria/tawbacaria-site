@@ -1189,7 +1189,6 @@
             "code": "onix-blue-uva",
             "label": "Onix Blue Uva",
             "description": "50g de Essência Onix. Sabor Uva com Blueberry",
-            "price": 1000,
             "image_url": "https://i.imgur.com/OfxmOAu.png",
             "in_stock": true,
             "is_highlight": false
@@ -1225,7 +1224,6 @@
             "code": "onixpurpledrops",
             "label": "Onix Purple Drops",
             "description": "50g de essência da Onix, sabor frutas roxas",
-            "price": 1000,
             "image_url": "https://i.imgur.com/ZxGAjK9.png",
             "in_stock": true,
             "is_highlight": false
