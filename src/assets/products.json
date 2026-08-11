@@ -1042,14 +1042,6 @@
     ],
     "Essências Onix": [
         {
-            "code": "onix-essencia-high-fusion",
-            "label": "Onix High Fusion 🧡",
-            "description": "50g de Essência Onix Experience para Narguile, sabor mix de frutas: banana, maracujá, laranja, melão e manga 🧡",
-            "is_highlight": false,
-            "in_stock": true,
-            "image_url": "https://i.imgur.com/Wt23FqL.png"
-        },
-        {
             "code": "onix-essencia-high-mint",
             "label": "Onix High Mint 🥶",
             "description": "50g de Essência Onix Experience para Narguile, sabor Hortelã 🥶",
@@ -1276,6 +1268,15 @@
             "label": "Onix Melancia",
             "description": "50g de Essência Onix. Sabor Melancia",
             "image_url": "https://i.imgur.com/Xsk025v.png",
+            "in_stock": true,
+            "is_highlight": false,
+            "price": 1200
+        },
+        {
+            "code": "onix-essencia-high-fusion",
+            "label": "Onix High Fusion 🧡",
+            "description": "50g de Essência Onix Experience para Narguile, sabor mix de frutas: banana, maracujá, laranja, melão e manga 🧡",
+            "image_url": "https://i.imgur.com/Wt23FqL.png",
             "in_stock": true,
             "is_highlight": false,
             "price": 1200
