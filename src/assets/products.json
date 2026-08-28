@@ -5065,10 +5065,10 @@
             "code": "slick-vidro-tonabe-5",
             "label": "Slick de Vidro Tonabê 5ml",
             "description": "Produzido em vidro borossilicato de alta qualidade, o slick oferece alta resistência, durabilidade e preservação da pureza do conteúdo armazenado. Armazenamento 5ml.",
-            "price": 1800,
             "image_url": "https://i.imgur.com/1RTA3dy.png",
             "in_stock": true,
-            "is_highlight": false
+            "is_highlight": false,
+            "price": 2000
         },
         {
             "code": "slick-vidro-tonabe-9",
