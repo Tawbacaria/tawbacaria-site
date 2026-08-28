@@ -1126,7 +1126,7 @@
             "label": "Onix Yellow Drops (Frutas Amarelas) 🍍🥭",
             "description": "50g de Essência Onix Fusion Experience para Narguile, sabor Manga, Abacaxi e Maracujá 🍍🥭",
             "image_url": "https://i.imgur.com/Sd2yTzb.png",
-            "in_stock": false,
+            "in_stock": true,
             "is_highlight": false
         },
         {
@@ -1173,9 +1173,9 @@
             "code": "0631430045342",
             "label": "Onix Goiaba e Morango 🍓",
             "description": "50g de Essência Onix Fusion Experience para Narguile, sabor Goiaba e Morango 🍓",
-            "is_highlight": false,
-            "in_stock": true,
-            "image_url": "https://i.imgur.com/TAp0pEz.png"
+            "image_url": "https://i.imgur.com/TAp0pEz.png",
+            "in_stock": false,
+            "is_highlight": false
         },
         {
             "code": "06131430044359",
@@ -1242,7 +1242,7 @@
             "label": "Onix Goiaba e Maracujá",
             "description": "50g de essência Onix sabor Onix Goiaba e Maracujá",
             "image_url": "https://i.imgur.com/XeKtlan.png",
-            "in_stock": true,
+            "in_stock": false,
             "is_highlight": false
         },
         {
