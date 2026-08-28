@@ -3304,12 +3304,12 @@
         },
         {
             "code": "cigarro-san-marino",
-            "label": "Cigarro San Marino Box",
+            "label": "Cigarro San Marino Box Brasileiro",
             "description": "1 maço com 20 unidades de cogarro San Marino Box Filtro Branco",
-            "price": 500,
             "image_url": "https://i.imgur.com/p8A0I1X.png",
             "in_stock": true,
-            "is_highlight": false
+            "is_highlight": false,
+            "price": 750
         },
         {
             "code": "palheiro-paulistinha-menta",
@@ -4130,7 +4130,7 @@
             "label": "Cuia de Silicone Grande - CONSULTAR CORES DISPONÍVEIS",
             "description": "UNIDADE CUIA DE SILICONE - CONSULTAR CORES DISPONÍVEIS - MEDIDAS 6,5x3,5cm",
             "image_url": "https://i.imgur.com/S7bRD3w.png",
-            "in_stock": true,
+            "in_stock": false,
             "is_highlight": false,
             "price": 22
         },
@@ -6192,10 +6192,10 @@
             "code": "borracha-vedacao-mangueira",
             "label": "Borracha Vedação Contra-Piteira",
             "description": "Borracha Vedação para Mangueira de Narguile",
-            "price": 400,
+            "image_url": "https://i.imgur.com/Jb6T3CB.png",
+            "in_stock": true,
             "is_highlight": false,
-            "in_stock": false,
-            "image_url": "https://i.imgur.com/Jb6T3CB.png"
+            "price": 400
         },
         {
             "code": "borracha-vedacao-vaso-pequeno",
