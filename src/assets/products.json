@@ -3545,6 +3545,15 @@
             "in_stock": true,
             "is_highlight": false,
             "price": 700
+        },
+        {
+            "code": "palheiro-jc-ice",
+            "label": "Palheiro JC Blue Ice 10 Unidades",
+            "description": "Palheiro JC Blue Ice 10 Unidades",
+            "image_url": "https://i.imgur.com/hfYTYld.png",
+            "in_stock": true,
+            "is_highlight": false,
+            "price": 1000
         }
     ],
     "Juices e Nic Salts": [
