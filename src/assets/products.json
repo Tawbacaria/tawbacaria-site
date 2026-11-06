@@ -467,73 +467,6 @@
             "in_stock": true,
             "is_highlight": false,
             "price": 500
-        },
-        {
-            "code": "cinzeiro-vidro-naboa",
-            "label": "Cinzeiro de Vidro Caveira - CONFERIR MODELOS DISPONÍVEIS",
-            "description": "Dimensões: 8,5 x 8,5 x 3,5 (cm)\r\nPeso: 233g",
-            "image_url": "https://i.imgur.com/KwetZza.png",
-            "in_stock": true,
-            "is_highlight": false,
-            "price": 3000
-        }
-    ],
-    "Essências Luky": [
-        {
-            "code": "essencia-luky-icemint",
-            "label": "Luky Ice Mint 🥶",
-            "description": "55g de essência Luky, feito com tabaco premium, sabor menta e hortelã",
-            "is_highlight": false,
-            "in_stock": false,
-            "image_url": "https://i.imgur.com/RfxzfPA.png"
-        },
-        {
-            "code": "essencia-luky-uva",
-            "label": "Luky Grape King 🍇",
-            "description": "55g de essência Luky, feito com tabaco premium, sabor uva",
-            "is_highlight": false,
-            "in_stock": false,
-            "image_url": "https://i.imgur.com/MWV6RBQ.png"
-        },
-        {
-            "code": "essencia-luky-lemon",
-            "label": "Luky Lemon 🍋",
-            "description": "55g de essência Luky, feito com tabaco premium, sabor limão",
-            "image_url": "https://i.imgur.com/OC2V1YW.png",
-            "in_stock": false,
-            "is_highlight": false
-        },
-        {
-            "code": "essencia-luky-redfruits",
-            "label": "Luky Red Fruits 🍓",
-            "description": "55g de essência Luky, feito com tabaco premium, sabor framboesa, morango e amora",
-            "is_highlight": false,
-            "in_stock": false,
-            "image_url": "https://i.imgur.com/6w4FZ18.png"
-        },
-        {
-            "code": "essencia-luky-bluefruits",
-            "label": "Luky Blue Fruits 🫐",
-            "description": "55g de essência Luky, feito com tabaco premium, sabor amora, blueberry e jabuticaba",
-            "is_highlight": false,
-            "in_stock": false,
-            "image_url": "https://i.imgur.com/7tXA7rK.png"
-        },
-        {
-            "code": "essencia-luky-nectar",
-            "label": "Luky Nectar of the Gods",
-            "description": "55g de essência Luky, feito com tabaco premium, sabor pêssego e ameixa",
-            "is_highlight": false,
-            "in_stock": false,
-            "image_url": "https://i.imgur.com/io1Kd2A.png"
-        },
-        {
-            "code": "essencia-luky-melon",
-            "label": "Luky Melon Gaul 🍈",
-            "description": "55g de essência Luky, feito com tabaco premium, sabor melão espanhol",
-            "image_url": "https://i.imgur.com/4UbKzdM.png",
-            "in_stock": false,
-            "is_highlight": false
         }
     ],
     "Essências Ziggy": [
@@ -1533,146 +1466,6 @@
             "is_highlight": false
         }
     ],
-    "Essências Magic": [
-        {
-            "code": "7908479402390",
-            "label": "Magic Space Mint 🌿",
-            "description": "50g de Essência Magic para Narguile, sabor Hortelã 🌿",
-            "is_highlight": false,
-            "in_stock": false,
-            "image_url": "https://i.imgur.com/hX6yRSK.png"
-        },
-        {
-            "code": "magic-essencia-space-strawnilla",
-            "label": "Magic Space Strawnilla 🍓🍦",
-            "description": "50g de Essência Magic para Narguile, sabor Morango com Baunilha",
-            "is_highlight": false,
-            "in_stock": false,
-            "image_url": "https://i.imgur.com/WsKOyXo.jpeg"
-        },
-        {
-            "code": "magic-essencia-space-pineapple-red-fruit",
-            "label": "Magic Space Pineapple Red Fruit 🍍🍓",
-            "description": "50g de Essência Magic para Narguile, sabor Abacaxi e Morango",
-            "is_highlight": false,
-            "in_stock": false,
-            "image_url": "https://i.imgur.com/5fSHz7A.png"
-        },
-        {
-            "code": "7908479400105",
-            "label": "Magic Space Guava (Goiaba)",
-            "description": "50g de Essência Magic para Narguile, sabor Goiaba",
-            "is_highlight": false,
-            "in_stock": false,
-            "image_url": "https://i.imgur.com/ZL5Tl84.png"
-        },
-        {
-            "code": "7908479402123",
-            "label": "Magic Space Peach 🍑 (Pêssego e Framboesa)",
-            "description": "50g de Essência Magic para Narguile, sabor Pêssego com Framboesa 🍑",
-            "is_highlight": false,
-            "in_stock": false,
-            "image_url": "https://i.imgur.com/VGJTe6M.png"
-        },
-        {
-            "code": "7908479402093",
-            "label": "Magic Space Lemon Mint 🍋 (Limão e Menta)",
-            "description": "50g de Essência Magic para Narguile, sabor Limão com Menta 🍋🌿",
-            "is_highlight": false,
-            "in_stock": false,
-            "image_url": "https://i.imgur.com/VC4AYo4.png"
-        },
-        {
-            "code": "7908479401928",
-            "label": "Magic Space Citric 🍋🍊 (Frutas cítricas)",
-            "description": "50g de Essência Magic para Narguile, sabor Limão com toque de Laranja 🍋🍊",
-            "is_highlight": false,
-            "in_stock": false,
-            "image_url": "https://i.imgur.com/0xTdrTv.png"
-        },
-        {
-            "code": "7908479402154",
-            "label": "Magic Space Purple Passion 💜 (Maracujá Roxo)",
-            "description": "50g de Essência Magic para Narguile, sabor Maracujá",
-            "is_highlight": false,
-            "in_stock": false,
-            "image_url": "https://i.imgur.com/6wexqrM.png"
-        },
-        {
-            "code": "7908479400082",
-            "label": "Magic Space Mix 🍓🫐 (Frutas Vermelhas)",
-            "description": "50g de Essência Magic para Narguile, sabor Morango, Framboesa, Blueberry (Mirtilo) e Menta 🍓🫐🌿",
-            "is_highlight": false,
-            "in_stock": false,
-            "image_url": "https://i.imgur.com/qFd2Sgd.png"
-        },
-        {
-            "code": "7898962227169",
-            "label": "Magic Space Corn 🌽 (Milho Verde)",
-            "description": "50g de Essência Magic para Narguile, sabor Milho Verde 🌽",
-            "is_highlight": false,
-            "in_stock": false,
-            "image_url": "https://i.imgur.com/DkDCnfY.png"
-        },
-        {
-            "code": "0619205354612",
-            "label": "Magic Space Green Grape 🍇💚 (Uva Verde)",
-            "description": "50g de Essência Magic para Narguile, sabor Uva Verde 🍇💚",
-            "is_highlight": false,
-            "in_stock": false,
-            "image_url": "https://i.imgur.com/LXOLwIA.png"
-        },
-        {
-            "code": "0619205354629",
-            "label": "Magic Space Pear Strawberry 🍐🍓 (Pêra com Morango)",
-            "description": "50g de Essência Magic para Narguile, sabor Pêra com Morango 🍐🍓",
-            "is_highlight": false,
-            "in_stock": false,
-            "image_url": "https://i.imgur.com/QDccbLD.png"
-        },
-        {
-            "code": "0630941831571",
-            "label": "Magic Space Kiwi Strawberry 🥝🍓",
-            "description": "50g de Essência Magic para Narguile, sabor Kiwi com Morango 🥝🍓",
-            "is_highlight": false,
-            "in_stock": false,
-            "image_url": "https://i.imgur.com/h0o0TAs.png"
-        }
-    ],
-    "Essências Haze": [
-        {
-            "code": "1759401080",
-            "label": "Haze PCK (Paçoca)",
-            "description": "50g de Essência Haze Tobacco, sabor Amendoim 🥜",
-            "is_highlight": false,
-            "in_stock": false,
-            "image_url": "https://i.imgur.com/53hkwhb.png"
-        },
-        {
-            "code": "1759401044",
-            "label": "Haze Whooo-Weee (Framboesa e Pêssego)",
-            "description": "50g de Essência Haze Tobacco, sabor Framboesa com Pêssego",
-            "is_highlight": false,
-            "in_stock": false,
-            "image_url": "https://i.imgur.com/Vux4aR0.png"
-        },
-        {
-            "code": "1759401099",
-            "label": "Haze Mint Supreme 🧊",
-            "description": "50g de Essência Haze Tobacco, sabor Hortelã 🌿",
-            "is_highlight": false,
-            "in_stock": false,
-            "image_url": "https://i.imgur.com/6H8Fj2Z.png"
-        },
-        {
-            "code": "1759401502",
-            "label": "Haze Icy Tango 🥭🍊",
-            "description": "50g de Essência Haze Tobacco, sabor Tangerina com Manga 🥭🍊",
-            "is_highlight": false,
-            "in_stock": false,
-            "image_url": "https://i.imgur.com/xA1FAM9.png"
-        }
-    ],
     "Essências Nay": [
         {
             "code": "0619205823835",
@@ -1972,249 +1765,6 @@
             "image_url": "https://i.imgur.com/vtvVig6.png",
             "in_stock": true,
             "is_highlight": false
-        }
-    ],
-    "Essências Chacal": [
-        {
-            "code": "619205423691",
-            "label": "Chacal Ice 🧊",
-            "description": "50g de Essência Chacal Refrescante 🧊",
-            "is_highlight": false,
-            "in_stock": false,
-            "image_url": "https://i.imgur.com/kdDVnJ9.png"
-        },
-        {
-            "code": "619205423660",
-            "label": "Chacal Mint 🌿",
-            "description": "50g de Essência Chacal, sabor Hortelã 🌿",
-            "is_highlight": false,
-            "in_stock": false,
-            "image_url": "https://i.imgur.com/fkcQBL3.png"
-        },
-        {
-            "code": "619205423677",
-            "label": "Chacal Bubba Grape 🍇",
-            "description": "50g de Essência Chacal, sabor Uva 🍇",
-            "is_highlight": false,
-            "in_stock": false,
-            "image_url": "https://i.imgur.com/JiIKwDe.png"
-        },
-        {
-            "code": "619205423646",
-            "label": "Chacal Bubba Sweet Lemon 🍋",
-            "description": "50g de Essência Chacal, sabor Limão 🍋",
-            "is_highlight": false,
-            "in_stock": false,
-            "image_url": "https://i.imgur.com/KNABeoG.png"
-        },
-        {
-            "code": "619205423684",
-            "label": "Chacal Bubba Strawberry 🍓",
-            "description": "50g de Essência Chacal, sabor Morango 🍓",
-            "is_highlight": false,
-            "in_stock": false,
-            "image_url": "https://i.imgur.com/B0zMFm2.png"
-        }
-    ],
-    "Essências Blue Horse": [
-        {
-            "code": "8601655700295",
-            "label": "Blue Horse Sputnik",
-            "description": "50g de Essência Blue Horse, sabor Toranja com Maracujá",
-            "is_highlight": false,
-            "in_stock": false,
-            "image_url": "https://i.imgur.com/2hpgO4J.png"
-        },
-        {
-            "code": "8681655700020",
-            "label": "Blue Horse Baku Nights",
-            "description": "50g de Essência Blue Horse, sabor Salada de Frutas com Menta 🌿",
-            "is_highlight": false,
-            "in_stock": false,
-            "image_url": "https://i.imgur.com/1xfauuE.png"
-        },
-        {
-            "code": "produto-teste",
-            "label": "Produto Teste",
-            "description": "Teste",
-            "price": 100000,
-            "image_url": "https://i.imgur.com/MvHWciR.png",
-            "in_stock": false,
-            "is_highlight": false
-        },
-        {
-            "code": "8681654700136",
-            "label": "Blue Horse Jamaica (Bob Marley)",
-            "description": "50g de Essência Blue Horse, Bob Marley (No Woman No Cry), sabor Morango com leve toque da Pêra 🍓🍐",
-            "image_url": "https://i.imgur.com/g09iBth.png",
-            "in_stock": false,
-            "is_highlight": false
-        }
-    ],
-    "Essências Ignite": [
-        {
-            "code": "0619205894774",
-            "label": "Ignite Banana Ice 🍌🧊",
-            "description": "50g de Essência Ignite, sabor Banana 🍌",
-            "is_highlight": false,
-            "in_stock": false,
-            "image_url": "https://i.imgur.com/ZC4sVmH.png"
-        },
-        {
-            "code": "0619205894798",
-            "label": "Ignite Lemon Melon 🍋🍈",
-            "description": "50g de Essência Ignite, sabor Limão com Melão 🍋🍈",
-            "is_highlight": false,
-            "in_stock": false,
-            "image_url": "https://i.imgur.com/DOVZZCO.png"
-        },
-        {
-            "code": "0619205894811",
-            "label": "Ignite Peach Cantaloupe 🍑🍈",
-            "description": "50g de Essência Ignite, sabor Pêssego com Melão 🍋🍈",
-            "is_highlight": false,
-            "in_stock": false,
-            "image_url": "https://i.imgur.com/AEY80rh.png"
-        },
-        {
-            "code": "0619205894804",
-            "label": "Ignite Blue Razz Ice 🫐",
-            "description": "50g de Essência Ignite, sabor Blueberry (Mirtilo) com Framboesa 🫐",
-            "is_highlight": false,
-            "in_stock": false,
-            "image_url": "https://i.imgur.com/HEbbHtz.png"
-        },
-        {
-            "code": "0631430044373",
-            "label": "Ignite Grape Ice 🍇🧊",
-            "description": "50g de Essência Ignite, sabor Uva 🍇",
-            "is_highlight": false,
-            "in_stock": false,
-            "image_url": "https://i.imgur.com/yJvRwer.png"
-        },
-        {
-            "code": "0631430044380",
-            "label": "Ignite Guava Watermelon (Goiaba e Melancia)",
-            "description": "50g de Essência Ignite, sabor Goiaba com Melancia",
-            "is_highlight": false,
-            "in_stock": false,
-            "image_url": "https://i.imgur.com/odeOp8I.png"
-        }
-    ],
-    "Essências Pimp": [
-        {
-            "code": "00205009",
-            "label": "Pimp Moranguete (Chocolate c Morango) 🍓🍫",
-            "description": "50g de Essência Pimp, sabor Chocolate com Morango 🍓🍫",
-            "is_highlight": false,
-            "in_stock": false,
-            "image_url": "https://i.imgur.com/8XVfLU5.png"
-        },
-        {
-            "code": "00206006",
-            "label": "Pimp Crazy Sweet (Citrus)",
-            "description": "50g de Essência Pimp, sabor mix de Frutas Cítricas",
-            "is_highlight": false,
-            "in_stock": false,
-            "image_url": "https://i.imgur.com/vaaWZMx.png"
-        },
-        {
-            "code": "00202039",
-            "label": "Pimp New Morangie 🍊🥭",
-            "description": "50g de Essência Pimp, sabor Manga e Laranja 🍊🥭",
-            "is_highlight": false,
-            "in_stock": false,
-            "image_url": "https://i.imgur.com/mUqYwL7.png"
-        },
-        {
-            "code": "00203203",
-            "label": "Pimp Banana Papaya",
-            "description": "50g de Essência Pimp, sabor Banana com Mamão",
-            "is_highlight": false,
-            "in_stock": false,
-            "image_url": "https://i.imgur.com/Uw465hS.png"
-        },
-        {
-            "code": "00202077",
-            "label": "Pimp Artic Cherry 🍒🧊",
-            "description": "50g de Essência Pimp, sabor Cereja Refrescante 🍒🧊",
-            "is_highlight": false,
-            "in_stock": false,
-            "image_url": "https://i.imgur.com/O5ptokQ.png"
-        },
-        {
-            "code": "00202084",
-            "label": "Pimp Explosion Green 🍏",
-            "description": "50g de Essência Pimp, sabor Maçã Verde 🍏",
-            "is_highlight": false,
-            "in_stock": false,
-            "image_url": "https://i.imgur.com/r7l6YM2.png"
-        }
-    ],
-    "Essências Sense": [
-        {
-            "code": "sense-essencia-banana",
-            "label": "Sense Banana 🍌",
-            "description": "50g de Essência Sense, sabor Banana 🍌",
-            "is_highlight": false,
-            "in_stock": false,
-            "image_url": "https://i.imgur.com/mmrbdqs.png"
-        },
-        {
-            "code": "0618231813452",
-            "label": "Sense Lychee Candy (Du Macário)",
-            "description": "50g de Essência Sense, sabor Doce de Lichia",
-            "is_highlight": false,
-            "in_stock": false,
-            "image_url": "https://i.imgur.com/3VC0E8t.png"
-        },
-        {
-            "code": "0619205629949",
-            "label": "Sense Melancia e Framboesa",
-            "description": "50g de Essência Sense, sabor Melancia e Framboesa",
-            "is_highlight": false,
-            "in_stock": false,
-            "image_url": "https://i.imgur.com/6QKidkR.png"
-        },
-        {
-            "code": "0618231451876",
-            "label": "Sense Absolut Mint 🧊",
-            "description": "50g de Essência Sense, sabor refrescante de Menta Azul 🧊",
-            "is_highlight": false,
-            "in_stock": false,
-            "image_url": "https://i.imgur.com/7vQC9Sq.png"
-        },
-        {
-            "code": "0618231813490",
-            "label": "Sense Candy Fruit 🍬",
-            "description": "50g de Essência Sense, sabor Chiclete de Tutti-frutti 🍬",
-            "is_highlight": false,
-            "in_stock": false,
-            "image_url": "https://i.imgur.com/CqxtAoR.png"
-        },
-        {
-            "code": "0618231813483",
-            "label": "Sense Candy Strawberry Ice 🍓🧊",
-            "description": "50g de Essência Sense, sabor Morango Refrescante 🍓🧊",
-            "is_highlight": false,
-            "in_stock": false,
-            "image_url": "https://i.imgur.com/I9G79mJ.png"
-        },
-        {
-            "code": "0618231813476",
-            "label": "Sense Mangonana 🥭🍌",
-            "description": "50g de Essência Sense, sabor Manga com Banana 🥭🍌",
-            "is_highlight": false,
-            "in_stock": false,
-            "image_url": "https://i.imgur.com/oVYLN6l.png"
-        },
-        {
-            "code": "0631430014703",
-            "label": "Sense Pera Ice 🍐🧊",
-            "description": "50g de Essência Sense, sabor Pera refrescante 🍐🧊",
-            "is_highlight": false,
-            "in_stock": false,
-            "image_url": "https://i.imgur.com/vOiZRUC.png"
         }
     ],
     "Essências Smyrna": [
@@ -2619,6 +2169,48 @@
             "label": "Chacal Erva-Mate Menta Limão Rosa",
             "description": "500g de Erva-Mate Menta Limão Rosa",
             "image_url": "https://i.imgur.com/YhWQ4Ku.png",
+            "in_stock": false,
+            "is_highlight": false
+        }
+    ],
+    "Essências ONA": [
+        {
+            "code": "essencia-ona-two-apples",
+            "label": "Ona Two Apples",
+            "description": "50g de Essência para Narguíle, marca ONA, sabor Duas Maçãs",
+            "image_url": "https://i.imgur.com/e4NhQNh.png",
+            "in_stock": true,
+            "is_highlight": false
+        },
+        {
+            "code": "essencia-ona-cola",
+            "label": "Ona Cola",
+            "description": "50g de Essência para Narguíle, marca ONA, sabor Coca-Cola",
+            "image_url": "https://i.imgur.com/7LArEhc.png",
+            "in_stock": true,
+            "is_highlight": false
+        },
+        {
+            "code": "essencia-ona-lemon-mint",
+            "label": "Ona Lemon Mint",
+            "description": "50g de Essência para Narguíle, marca ONA, sabor Limão e Menta",
+            "image_url": "https://i.imgur.com/KF5UYCk.png",
+            "in_stock": true,
+            "is_highlight": false
+        },
+        {
+            "code": "essencia-ona-callista",
+            "label": "Ona Callista",
+            "description": "50g de Essência para Narguíle, marca ONA, sabor Abacaxi, Manga e Pessêgo",
+            "image_url": "https://i.imgur.com/Jrsz5Kc.png",
+            "in_stock": false,
+            "is_highlight": false
+        },
+        {
+            "code": "essencia-ona-66",
+            "label": "Ona 66",
+            "description": "50g de Essência para Narguíle, marca ONA, sabor Melão, Melancia, Hortelã e Maracujá",
+            "image_url": "https://i.imgur.com/cp0piN5.png",
             "in_stock": false,
             "is_highlight": false
         }
@@ -5241,6 +4833,15 @@
             "in_stock": true,
             "is_highlight": false,
             "price": 2000
+        },
+        {
+            "code": "cinzeiro-vidro-naboa",
+            "label": "Cinzeiro de Vidro Caveira - CONFERIR MODELOS DISPONÍVEIS",
+            "description": "Dimensões: 8,5 x 8,5 x 3,5 (cm)\r\nPeso: 233g",
+            "image_url": "https://i.imgur.com/KwetZza.png",
+            "in_stock": true,
+            "is_highlight": false,
+            "price": 3000
         }
     ],
     "Acessórios": [

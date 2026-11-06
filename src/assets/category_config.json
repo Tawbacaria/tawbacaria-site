@@ -2,11 +2,11 @@
     "Essências Fusion": {
         "price": 1000
     },
+    "Essências ONA": {
+        "price": 1200
+    },
     "Essências Zomo": {
         "price": 1000
-    },
-    "Essências Luky": {
-        "price": 1200
     },
     "Essências Ziggy": {
         "price": 1200,
@@ -31,35 +31,7 @@
     "Essências Adalya": {
         "price": 1800
     },
-    "Essências Magic": {
-        "price": 1000
-    },
-    "Essências Haze": {
-        "price": 1700
-    },
     "Essências Nay": {
-        "price": 1000
-    },
-    "Essências Chacal": {
-        "price": 1000
-    },
-    "Essências Blue Horse": {
-        "price": 1400
-    },
-    "Essências Ignite": {
-        "price": 1400
-    },
-    "Essências Pimp": {
-        "price": 1000,
-        "discount": {
-            "discount": 300,
-            "period": {
-                "start": "2023-11-25T00:00:00",
-                "end": "2023-11-28T00:00:00"
-            }
-        }
-    },
-    "Essências Sense" : {
         "price": 1000
     },
     "Essências Smyrna" : {
