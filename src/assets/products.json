@@ -2710,7 +2710,7 @@
             "label": "Caixa 500g Carvão Hexagonal D'Coco",
             "description": "Caixa com 500g de Carvão D'coco Hexagonal",
             "image_url": "https://i.imgur.com/bmJc50H.jpeg",
-            "in_stock": false,
+            "in_stock": true,
             "is_highlight": false,
             "price": 2500
         },
@@ -2784,7 +2784,7 @@
             "image_url": "https://i.imgur.com/8QsBLVZ.png",
             "in_stock": true,
             "is_highlight": false,
-            "price": 3800
+            "price": 4000
         },
         {
             "code": "carvao-unidade",
