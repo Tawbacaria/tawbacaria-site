@@ -467,6 +467,15 @@
             "in_stock": true,
             "is_highlight": false,
             "price": 500
+        },
+        {
+            "code": "piteira-papelito-hiper-longa",
+            "label": "Piteira Papelito Hiper Longa",
+            "description": "A Piteira Papelito Hiper Longa Folha Dupla é uma piteira de papel desenvolvida em formato Hiper Longa e sistema Folha Dupla 2x1.\r\n\r\nCada livreto contém 72 piteiras, com folhas que possuem picotes para facilitar a separação e dobra.",
+            "image_url": "https://i.imgur.com/h6OcSDU.png",
+            "in_stock": true,
+            "is_highlight": false,
+            "price": 800
         }
     ],
     "Essências Ziggy": [
