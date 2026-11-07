@@ -2065,7 +2065,7 @@
             "label": "Chacal Erva-Mate Limão",
             "description": "500g de Erva-Mate para Tereré, sabor de folhas do mate com limão",
             "image_url": "https://i.imgur.com/TCQWUSR.png",
-            "in_stock": true,
+            "in_stock": false,
             "is_highlight": false
         },
         {
@@ -2080,9 +2080,9 @@
             "code": "0619205423554",
             "label": "Chacal Erva-Mate Limão Rosa",
             "description": "500g de Erva-Mate para Tereré, sabor de folhas do mate com limão rosa",
-            "is_highlight": false,
-            "in_stock": true,
-            "image_url": "https://i.imgur.com/YVDvspB.png"
+            "image_url": "https://i.imgur.com/YVDvspB.png",
+            "in_stock": false,
+            "is_highlight": false
         },
         {
             "code": "0602883951099",
@@ -3017,7 +3017,7 @@
             "label": "Charuto Tradicional Phillies Titan - UNIDADE",
             "description": "Charuto Tradicional Phillies Titan - UNIDADE",
             "image_url": "https://i.imgur.com/onX7ksv.png",
-            "in_stock": true,
+            "in_stock": false,
             "is_highlight": false,
             "price": 1900
         },
